@@ -1,0 +1,17 @@
+import MyArray
+a=MyArray.MyArray(1,2,3,4,5,6)
+b=MyArray.MyArray(6,5,4,3,2,1)
+print(len(a))
+print(a.dot(b))
+print(a<b)
+print(a>b)
+print(a==a)
+print(3 in a)
+print(a*3)
+print(a+2)
+print(a**2)
+print(a/2)
+print(a//2)
+print(a)
+a[0]=8
+print(a)

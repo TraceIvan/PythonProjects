@@ -1,0 +1,20 @@
+'''
+Created on Mar 6, 2018
+
+@author: 12543
+'''
+from selenium import webdriver
+from mylog import MyLog as mylog
+
+class Item(object):
+    ip=None#代理IP
+    port=None#代理端口
+    anonymous=None#是否匿名
+    type=None#类型
+    support=None#支持的协议
+    local=None#物理地址
+    speed=None#代理速度
+    
+class GetProxy(object):
+    def __init__(self):
+        self.startUrl='http://www.kuaidaili.com/proxylist'

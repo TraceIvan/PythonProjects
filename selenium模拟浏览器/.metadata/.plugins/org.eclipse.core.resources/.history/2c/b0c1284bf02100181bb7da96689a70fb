@@ -1,0 +1,29 @@
+#-*- coding: utf-8 -*-
+'''
+Created on Mar 7, 2018
+
+@author: 12543
+'''
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+from mylog import MyLog as mylog
+import os
+import time
+
+class GetCartoon(object):
+    def __init__(self):
+        self.startUrl='http://www.1kkk.com/ch1-426475/'
+        self.log=mylog()
+        self.browser=self.getBrowser()
+        self.saveCartoon(self.browser)
+        
+    def getBrowser(self):
+        chrome_options = Options()
+        chrome_options.add_argument("--headless")
+        browser = webdriver.Chrome(executable_path=(r'D:\Program Files\Python36\seleniumDriver\chromedriver.exe'), chrome_options=chrome_options)
+        try:
+            browser.get(self.startUrl)
+        except:
+            self.log.error('open the %s failed.'%self.startUrl)
+        browser.implicitly_wait(20)
+        

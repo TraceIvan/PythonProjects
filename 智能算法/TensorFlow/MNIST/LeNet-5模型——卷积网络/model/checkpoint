@@ -1,0 +1,6 @@
+model_checkpoint_path: "model_of_mnist.ckpt-30000"
+all_model_checkpoint_paths: "model_of_mnist.ckpt-26000"
+all_model_checkpoint_paths: "model_of_mnist.ckpt-27000"
+all_model_checkpoint_paths: "model_of_mnist.ckpt-28000"
+all_model_checkpoint_paths: "model_of_mnist.ckpt-29000"
+all_model_checkpoint_paths: "model_of_mnist.ckpt-30000"

@@ -1,0 +1,19 @@
+#-*- coding: utf-8 -*-
+'''
+Created on Mar 7, 2018
+
+@author: 12543
+'''
+from selenium import webdriver
+from mylog import MyLog as mylog
+import os
+import time
+
+class GetCartoon(object):
+    def __init__(self):
+        self.startUrl='http://www.1kkk.com/ch1-426475/'
+        self.log=mylog()
+        self.browser=self.getBrowser()
+        self.saveCartoon(self.browser)
+        
+    def 

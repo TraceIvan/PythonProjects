@@ -1,0 +1,6 @@
+2017-12-12 15:37:14,209 ERROR    12543      I'm an error message
+2017-12-12 15:37:14,210 CRITICAL 12543      I'm a critical message
+2017-12-12 15:40:35,556 ERROR    12543      I'm an error message
+2017-12-12 15:40:35,556 CRITICAL 12543      I'm a critical message
+2017-12-12 15:42:09,942 ERROR    12543      34         I'm an error message
+2017-12-12 15:42:09,943 CRITICAL 12543      36         I'm a critical message

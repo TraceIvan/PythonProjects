@@ -1,0 +1,39 @@
+-- VERSION_5
+-- START DISKCACHE_2
+D:\Python\seleniumÄ£Äâä¯ÀÀÆ÷\.metadata\.plugins\org.eclipse.core.resources\.projects\getCartoon\com.python.pydev.analysis\v2_indexcache
+mylog|1520342178000000000|D:\Python\seleniumÄ£Äâä¯ÀÀÆ÷\getCartoon\mylog.py
+cartoon1|1520418007913178000|D:\Python\seleniumÄ£Äâä¯ÀÀÆ÷\getCartoon\cartoon1.py
+-- END DISKCACHE
+-- START DICTIONARY
+8
+4=mylog
+5=GetCartoon
+2=cartoon1
+7=GetCartoon.__init__
+8=MyLog.__init__
+1=D:\Python\seleniumÄ£Äâä¯ÀÀÆ÷\getCartoon\cartoon1.py
+3=D:\Python\seleniumÄ£Äâä¯ÀÀÆ÷\getCartoon\mylog.py
+6=MyLog
+-- END DICTIONARY
+-- START TREE 1
+2
+get|1|GetCartoon!1^13#7*17@
+myl|2|mylog!3^51#5*35@MyLog!3^12#7*33@
+-- END TREE
+-- START TREE 2
+14
+__i|2|__init__!5&1^14#9*18@__init__!6&3^13#9*34@
+bro|1|browser!7&1^17#9*19@
+cre|1|createDir!5&1^49#9*18@
+cri|1|critical!6&3^47#9*34@
+deb|1|debug!6&3^35#9*34@
+err|1|error!6&3^44#9*34@
+for|1|formatter!8&3^20#9*35@
+get|1|getBrowser!5&1^20#9*18@
+inf|1|info!6&3^38#9*34@
+log|5|logHandSt!8&3^27#9*35@logFile!8&3^19#9*35@logger!8&3^15#9*35@logHand!8&3^23#9*35@log!7&1^16#9*19@
+sav|1|saveCartoon!5&1^31#9*18@
+sta|1|startUrl!7&1^15#9*19@
+use|1|user!8&3^14#9*35@
+war|1|warn!6&3^41#9*34@
+-- END TREE

@@ -1,0 +1,429 @@
+﻿<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="renderer" content="webkit">
+<meta name="applicable-device" content="pc,mobile">
+<title>最新电影,好看的电影 - 33UU电影网</title>
+<meta name="keywords" content="想看最新好看的电影,好看的电影,电影福利电影,看福利找福利就来33UU电影网搜搜看." />
+<meta name="description" content="" />
+<link href="/template/b/css/style.css" rel="stylesheet">
+<link href="/favicon.ico" type="image/x-icon" rel="icon">
+<link href="/favicon.ico" type="image/x-icon" rel="shortcut icon">
+<link href="/template/b/css/home.css" rel="stylesheet" type="text/css" />
+<script>var SitePath='/',SiteAid='12',SiteTid='1',SiteId='';</script>
+<script src="/js/jquery.js"></script>
+<script src="/js/jq/jquery.lazyload.js"></script>
+<script src="/js/jq/jquery.autocomplete.js"></script>
+<script src="/template/b/js/1.7.2.min.js"></script>
+<script src="/template/b/js/jq.js"></script>
+<script src="/template/b/js/common.js"></script>
+<script src="/template/b/js/function.js"></script>
+<script src="/template/b/js/jquery.lazyload.js"></script>
+<script src="/template/b/js/touchslider.js"></script>
+<script src="/template/b/js/home.js"></script>
+</head>
+<body>
+﻿
+<div class="topall">
+  <div class="header hbd mb-r clearfix">
+    <div class="wrap head">
+      <div class="pclogo"><a class="pcico logobg" href="/"></a></div>
+      <div class="search">
+        <form action='/index.php?m=vod-search' method="post"  >
+          <input class="input" type="text" id="wd" name="wd"  placeholder="输入影片名"/>
+          <input class="ico imgbt" type="submit" name="submit" value=""/>
+        </form>
+      </div>
+      <div class="dlzc">
+        <ul>
+          <li><a class="ico jl" id="history" href="javascript:void(0);"  onMouseOver="$MH.showHistory(0);">播放记录</a>
+         
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="header clearfix">
+    <div class="wrap menu clearfix">
+      <div class="mlogo pc-r"><a class="pcico logobg" href="/"></a></div>
+      <ul class="ul-l mb-r">
+      <li><a href="/" title="首页"  ><B>首页</B></a></li>
+
+<li><a href="/index.php?m=vod-type-id-1.html" target="_self"  class="on"><B>电影</B></a></li>
+	  
+<li><a href="/index.php?m=vod-type-id-2.html" target="_self"><B>连续剧</B></a></li>
+	  
+<li><a href="/index.php?m=vod-type-id-4.html" target="_self"><B>美女福利</B></a></li>
+	  
+<li><a href="/index.php?m=vod-type-id-20.html" target="_self"><B>伦理类</B></a></li>
+	  
+      </ul>
+      <ul class="ul-r mb-r">
+	<li><a href="/index.php?m=vod-type-id-5.html" title="最新好看的动作片福利" target="_self" >动作片</a></li><li><a href="/index.php?m=vod-type-id-6.html" title="最新好看的喜剧片福利" target="_self" >喜剧片</a></li><li><a href="/index.php?m=vod-type-id-7.html" title="最新好看的爱情片福利" target="_self" >爱情片</a></li><li><a href="/index.php?m=vod-type-id-8.html" title="最新好看的科幻片福利" target="_self" >科幻片</a></li><li><a href="/index.php?m=vod-type-id-9.html" title="最新好看的恐怖片福利" target="_self" >恐怖片</a></li><li><a href="/index.php?m=vod-type-id-10.html" title="最新好看的剧情片福利" target="_self" >剧情片</a></li><li><a href="/index.php?m=vod-type-id-11.html" title="最新好看的战争片福利" target="_self" >战争片</a></li><li><a href="/index.php?m=vod-type-id-12.html" title="最新好看的国产剧福利" target="_self" >国产剧</a></li><li><a href="/index.php?m=vod-type-id-13.html" title="最新好看的港台剧福利" target="_self" >港台剧</a></li><li><a href="/index.php?m=vod-type-id-14.html" title="最新好看的日韩剧福利" target="_self" >日韩剧</a></li><li><a href="/index.php?m=vod-type-id-15.html" title="最新好看的欧美剧福利" target="_self" >欧美剧</a></li>
+        <li><a href="/index.php?m=gbook-show.html">留言</a></li>
+        <li><a href="/index.php?m=label-top100.html" title="最新手机电影电视剧手机福利">最近更新</a></li>
+        <li><a href="/index.php?m=label-hot.html" title="热门好看的手机电影电视剧手机福利排行榜">影片排行</a></li>
+      </ul>
+      <ul class="menu-r pc-r">
+        <li class="ico ho"><a href="/"><span class="wb">首页</span></a></li>
+        <li class="ico mjq lei"><span class="wb">分类</span></li>
+        <li class="ico mjq sh"><span class="wb">搜索</span></li>
+      </ul>
+    </div>
+    <div class="menu-down">
+      <ul> 
+     
+ <li><a href="/index.php?m=vod-type-id-1.html" title="最新的好看的电影福利" target="_self"><B>电影</B></a></li>  
+ <li><a href="/index.php?m=vod-type-id-2.html" title="最新的好看的连续剧福利" target="_self"><B>连续剧</B></a></li>  
+ <li><a href="/index.php?m=vod-type-id-3.html" title="最新的好看的综艺福利" target="_self"><B>综艺</B></a></li>  
+ <li><a href="/index.php?m=vod-type-id-4.html" title="最新的好看的美女福利福利" target="_self"><B>美女福利</B></a></li>  
+ <li><a href="/index.php?m=vod-type-id-5.html" title="最新的好看的动作片福利" target="_self"><B>动作片</B></a></li>  
+ <li><a href="/index.php?m=vod-type-id-6.html" title="最新的好看的喜剧片福利" target="_self"><B>喜剧片</B></a></li>  
+ <li><a href="/index.php?m=vod-type-id-7.html" title="最新的好看的爱情片福利" target="_self"><B>爱情片</B></a></li>  
+ <li><a href="/index.php?m=vod-type-id-8.html" title="最新的好看的科幻片福利" target="_self"><B>科幻片</B></a></li>  
+ <li><a href="/index.php?m=vod-type-id-9.html" title="最新的好看的恐怖片福利" target="_self"><B>恐怖片</B></a></li>  
+ <li><a href="/index.php?m=vod-type-id-10.html" title="最新的好看的剧情片福利" target="_self"><B>剧情片</B></a></li>  
+ <li><a href="/index.php?m=vod-type-id-11.html" title="最新的好看的战争片福利" target="_self"><B>战争片</B></a></li>  
+ <li><a href="/index.php?m=vod-type-id-12.html" title="最新的好看的国产剧福利" target="_self"><B>国产剧</B></a></li>  
+ <li><a href="/index.php?m=vod-type-id-13.html" title="最新的好看的港台剧福利" target="_self"><B>港台剧</B></a></li>  
+ <li><a href="/index.php?m=vod-type-id-14.html" title="最新的好看的日韩剧福利" target="_self"><B>日韩剧</B></a></li>  
+ <li><a href="/index.php?m=vod-type-id-15.html" title="最新的好看的欧美剧福利" target="_self"><B>欧美剧</B></a></li>  
+ <li><a href="/index.php?m=vod-type-id-20.html" title="最新的好看的伦理类福利" target="_self"><B>伦理类</B></a></li>  
+        <li><a href="/index.php?m=gbook-show.html">留言</a></li>
+        <li><a href="/index.php?m=label-top100.html" title="最新手机电影电视剧福利">最近更新</a></li>
+        <li><a href="/index.php?m=label-hot.html" title="热门好看的手机电影电视剧手机福利">影片排行</a></li>
+      </ul>
+    </div>
+    <div class="search-down clearfix">
+      <div class="shall">
+        <form action='/index.php?m=vod-search' method="post"  target="_self" >
+          <div class="shall1">
+            <input class="input" type="text" id="wd" name="wd"  placeholder="输入影片名"/>
+            <input class="ico imgbt" type="submit" name="submit"  value=""/>
+          </div>
+        </form>
+      </div>
+      <div class="shclose">关闭</div>
+    </div>
+  </div>
+</div>
+<div class="wrap">
+  <div class="con">
+    <div class="row clearfix">
+      <div class="channelname">在<a href="/index.php?m=vod-type-id-1.html" title="删除此条件"><i class="name">栏目：电影<span>X</span></i></a>中，当前位置:<a href='/'>首页</a>&nbsp;&nbsp;&raquo;&nbsp;&nbsp;<a href='/index.php?m=vod-type-id-1.html' >电影</a>，我们为你找到了<i class="count">2369</i>部影片</div>
+      <div class="row-r chr">
+        <div class="chtit clearfix"><span class="typetext"><a href='/'>首页</a>&nbsp;&nbsp;&raquo;&nbsp;&nbsp;<a href='/index.php?m=vod-type-id-1.html' >电影</a></span></div>
+        <span class="slide"><i class="zk">＋展开</i><i class="sq">－收起</i></span>
+        <div class="select">
+          <div class="selectlist clearfix">
+            <div class="l">栏目<i class="ico sjxx"></i></div>
+            <div class="r">
+              <ul class="ul-s clearfix">
+         
+		 <li class="s"><a href="/index.php?m=vod-list-id-5-pg-1-order--by--class--year--letter--area--lang-.html"><em>动作片</em></a></li> 
+		 <li class="s"><a href="/index.php?m=vod-list-id-6-pg-1-order--by--class--year--letter--area--lang-.html"><em>喜剧片</em></a></li> 
+		 <li class="s"><a href="/index.php?m=vod-list-id-7-pg-1-order--by--class--year--letter--area--lang-.html"><em>爱情片</em></a></li> 
+		 <li class="s"><a href="/index.php?m=vod-list-id-8-pg-1-order--by--class--year--letter--area--lang-.html"><em>科幻片</em></a></li> 
+		 <li class="s"><a href="/index.php?m=vod-list-id-9-pg-1-order--by--class--year--letter--area--lang-.html"><em>恐怖片</em></a></li> 
+		 <li class="s"><a href="/index.php?m=vod-list-id-10-pg-1-order--by--class--year--letter--area--lang-.html"><em>剧情片</em></a></li> 
+		 <li class="s"><a href="/index.php?m=vod-list-id-11-pg-1-order--by--class--year--letter--area--lang-.html"><em>战争片</em></a></li> 
+              </ul>
+            </div>
+          </div>
+          <div class="selectlist clearfix">
+            <div class="l">剧情<i class="ico sjxx"></i></div>
+            <div class="r">
+              <ul class="ul-s clearfix">
+               
+			   
+			   <li class="s" ><a href="/index.php?m=vod-list-id-1-pg-1-order--by--class-1-year--letter--area--lang-.html" ><em>惊悚</em></a></li>  
+			   
+			   <li class="s" ><a href="/index.php?m=vod-list-id-1-pg-1-order--by--class-2-year--letter--area--lang-.html" ><em>悬疑</em></a></li>  
+			   
+			   <li class="s" ><a href="/index.php?m=vod-list-id-1-pg-1-order--by--class-3-year--letter--area--lang-.html" ><em>魔幻</em></a></li>  
+			   
+			   <li class="s" ><a href="/index.php?m=vod-list-id-1-pg-1-order--by--class-4-year--letter--area--lang-.html" ><em>罪案</em></a></li>  
+			   
+			   <li class="s" ><a href="/index.php?m=vod-list-id-1-pg-1-order--by--class-5-year--letter--area--lang-.html" ><em>灾难</em></a></li>  
+			   
+			   <li class="s" ><a href="/index.php?m=vod-list-id-1-pg-1-order--by--class-6-year--letter--area--lang-.html" ><em>动画</em></a></li>  
+			   
+			   <li class="s" ><a href="/index.php?m=vod-list-id-1-pg-1-order--by--class-7-year--letter--area--lang-.html" ><em>古装</em></a></li>  
+			   
+			   <li class="s" ><a href="/index.php?m=vod-list-id-1-pg-1-order--by--class-8-year--letter--area--lang-.html" ><em>青春</em></a></li>  
+			   
+			   <li class="s" ><a href="/index.php?m=vod-list-id-1-pg-1-order--by--class-9-year--letter--area--lang-.html" ><em>歌舞</em></a></li>  
+			   
+			   <li class="s" ><a href="/index.php?m=vod-list-id-1-pg-1-order--by--class-10-year--letter--area--lang-.html" ><em>文艺</em></a></li>  
+			   
+			   <li class="s" ><a href="/index.php?m=vod-list-id-1-pg-1-order--by--class-11-year--letter--area--lang-.html" ><em>生活</em></a></li>  
+			   
+			   <li class="s" ><a href="/index.php?m=vod-list-id-1-pg-1-order--by--class-12-year--letter--area--lang-.html" ><em>历史</em></a></li>  
+			   
+			   <li class="s" ><a href="/index.php?m=vod-list-id-1-pg-1-order--by--class-13-year--letter--area--lang-.html" ><em>励志</em></a></li>  
+			   
+			   <li class="s" ><a href="/index.php?m=vod-list-id-1-pg-1-order--by--class-14-year--letter--area--lang-.html" ><em>预告片</em></a></li>  
+              </ul>
+            </div>
+          </div>
+          <div class="selectlist clearfix">
+            <div class="l">地区<i class="ico sjxx"></i></div>
+            <div class="r">
+              <ul class="ul-s clearfix">
+                     
+					 <li  class="s"><a href="/index.php?m=vod-list-id-1-pg-1-order--by--class--year--letter--area-%E5%A4%A7%E9%99%86-lang-.html" ><em>大陆</em></a></li>         
+					 <li  class="s"><a href="/index.php?m=vod-list-id-1-pg-1-order--by--class--year--letter--area-%E9%A6%99%E6%B8%AF-lang-.html" ><em>香港</em></a></li>         
+					 <li  class="s"><a href="/index.php?m=vod-list-id-1-pg-1-order--by--class--year--letter--area-%E5%8F%B0%E6%B9%BE-lang-.html" ><em>台湾</em></a></li>         
+					 <li  class="s"><a href="/index.php?m=vod-list-id-1-pg-1-order--by--class--year--letter--area-%E7%BE%8E%E5%9B%BD-lang-.html" ><em>美国</em></a></li>         
+					 <li  class="s"><a href="/index.php?m=vod-list-id-1-pg-1-order--by--class--year--letter--area-%E9%9F%A9%E5%9B%BD-lang-.html" ><em>韩国</em></a></li>         
+					 <li  class="s"><a href="/index.php?m=vod-list-id-1-pg-1-order--by--class--year--letter--area-%E6%97%A5%E6%9C%AC-lang-.html" ><em>日本</em></a></li>         
+					 <li  class="s"><a href="/index.php?m=vod-list-id-1-pg-1-order--by--class--year--letter--area-%E6%B3%B0%E5%9B%BD-lang-.html" ><em>泰国</em></a></li>         
+					 <li  class="s"><a href="/index.php?m=vod-list-id-1-pg-1-order--by--class--year--letter--area-%E6%96%B0%E5%8A%A0%E5%9D%A1-lang-.html" ><em>新加坡</em></a></li>         
+					 <li  class="s"><a href="/index.php?m=vod-list-id-1-pg-1-order--by--class--year--letter--area-%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A-lang-.html" ><em>马来西亚</em></a></li>         
+					 <li  class="s"><a href="/index.php?m=vod-list-id-1-pg-1-order--by--class--year--letter--area-%E5%8D%B0%E5%BA%A6-lang-.html" ><em>印度</em></a></li>         
+					 <li  class="s"><a href="/index.php?m=vod-list-id-1-pg-1-order--by--class--year--letter--area-%E8%8B%B1%E5%9B%BD-lang-.html" ><em>英国</em></a></li>         
+					 <li  class="s"><a href="/index.php?m=vod-list-id-1-pg-1-order--by--class--year--letter--area-%E6%B3%95%E5%9B%BD-lang-.html" ><em>法国</em></a></li>         
+					 <li  class="s"><a href="/index.php?m=vod-list-id-1-pg-1-order--by--class--year--letter--area-%E5%8A%A0%E6%8B%BF%E5%A4%A7-lang-.html" ><em>加拿大</em></a></li>         
+					 <li  class="s"><a href="/index.php?m=vod-list-id-1-pg-1-order--by--class--year--letter--area-%E8%A5%BF%E7%8F%AD%E7%89%99-lang-.html" ><em>西班牙</em></a></li>         
+					 <li  class="s"><a href="/index.php?m=vod-list-id-1-pg-1-order--by--class--year--letter--area-%E4%BF%84%E7%BD%97%E6%96%AF-lang-.html" ><em>俄罗斯</em></a></li>         
+					 <li  class="s"><a href="/index.php?m=vod-list-id-1-pg-1-order--by--class--year--letter--area-%E5%85%B6%E5%AE%83-lang-.html" ><em>其它</em></a></li>         
+              </ul>
+            </div>
+          </div>
+          <div class="selectlist clearfix">
+            <div class="l">年代<i class="ico sjxx"></i></div>
+            <div class="r">
+              <ul class="ul-s clearfix">
+                  
+				  <li class="s"><a href="/index.php?m=vod-list-id-1-pg-1-order--by--class--year-2016-letter--area--lang-.html" ><em>2016</em></a></li> 
+				  <li class="s"><a href="/index.php?m=vod-list-id-1-pg-1-order--by--class--year-2015-letter--area--lang-.html" ><em>2015</em></a></li> 
+				  <li class="s"><a href="/index.php?m=vod-list-id-1-pg-1-order--by--class--year-2014-letter--area--lang-.html" ><em>2014</em></a></li> 
+				  <li class="s"><a href="/index.php?m=vod-list-id-1-pg-1-order--by--class--year-2013-letter--area--lang-.html" ><em>2013</em></a></li> 
+				  <li class="s"><a href="/index.php?m=vod-list-id-1-pg-1-order--by--class--year-2012-letter--area--lang-.html" ><em>2012</em></a></li> 
+				  <li class="s"><a href="/index.php?m=vod-list-id-1-pg-1-order--by--class--year-2011-letter--area--lang-.html" ><em>2011</em></a></li> 
+				  <li class="s"><a href="/index.php?m=vod-list-id-1-pg-1-order--by--class--year-2010-letter--area--lang-.html" ><em>2010</em></a></li> 
+				  <li class="s"><a href="/index.php?m=vod-list-id-1-pg-1-order--by--class--year-2009-letter--area--lang-.html" ><em>2009</em></a></li> 
+				  <li class="s"><a href="/index.php?m=vod-list-id-1-pg-1-order--by--class--year-2008-letter--area--lang-.html" ><em>2008</em></a></li> 
+				  <li class="s"><a href="/index.php?m=vod-list-id-1-pg-1-order--by--class--year-2007-letter--area--lang-.html" ><em>2007</em></a></li> 
+				  <li class="s"><a href="/index.php?m=vod-list-id-1-pg-1-order--by--class--year-2006-letter--area--lang-.html" ><em>2006</em></a></li> 
+				  <li class="s"><a href="/index.php?m=vod-list-id-1-pg-1-order--by--class--year-2005-letter--area--lang-.html" ><em>2005</em></a></li> 
+				  <li class="s"><a href="/index.php?m=vod-list-id-1-pg-1-order--by--class--year-2004-letter--area--lang-.html" ><em>2004</em></a></li> 
+				  <li class="s"><a href="/index.php?m=vod-list-id-1-pg-1-order--by--class--year-2003-letter--area--lang-.html" ><em>2003</em></a></li> 
+				  <li class="s"><a href="/index.php?m=vod-list-id-1-pg-1-order--by--class--year-2002-letter--area--lang-.html" ><em>2002</em></a></li> 
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="crlist">
+          <ul class="ul clearfix">
+<script type="text/javascript" language="javascript" src="/{seacms:sitepath}js/{seacms:adfolder}/m250.js"></script>
+
+            <li ><a class="jqr" href="/vodhtml/4948.html" title="战狼2"><i class="bz">HD1280高清中字</i><i class="ico num">1</i>战狼2
+              <div class="lidown block clearfix">
+                <div class="lidown-l"><img src="http://ww1.sinaimg.cn/large/9dfd21afgy1fia26x19nuj20ku0vi1jk.jpg" alt="战狼2"><span class="ico scorebg"><b>7.4</b></span></div>
+                <div class="lidown-r">
+                  <p>主演：吴京 / 弗兰克·格里罗</p>
+                  <p>地区：大陆</p>
+                  <p>时间：2017-08-06</p>
+                </div>
+              </div>
+              </a></li>
+      
+            <li class="t"><a class="jqr" href="/vodhtml/3463.html" title="悟空传"><i class="bz">BD1280高清泄露中字</i><i class="ico num">2</i>悟空传
+              <div class="lidown  clearfix">
+                <div class="lidown-l"><img src="http://ww1.sinaimg.cn/large/9dfd21afgy1fhcgg9z68jj20jw0rsarw.jpg" alt="悟空传"><span class="ico scorebg"><b>6.3</b></span></div>
+                <div class="lidown-r">
+                  <p>主演：彭于晏 / 倪妮 / 欧豪 / 余文乐</p>
+                  <p>地区：大陆</p>
+                  <p>时间：2017-07-09</p>
+                </div>
+              </div>
+              </a></li>
+      
+            <li ><a class="jqr" href="/vodhtml/2860.html" title="速度与激情8"><i class="bz">HDTC1280修复音频中字</i><i class="ico num">3</i>速度与激情8
+              <div class="lidown  clearfix">
+                <div class="lidown-l"><img src="http://122.228.200.55:8083/201704/sdyjq8.jpg" alt="速度与激情8"><span class="ico scorebg"><b>7.0</b></span></div>
+                <div class="lidown-r">
+                  <p>主演：范·迪塞尔 / 道恩·强森 / 查理兹·塞隆 / 杰森·斯坦森</p>
+                  <p>地区：美国</p>
+                  <p>时间：2017-05-08</p>
+                </div>
+              </div>
+              </a></li>
+      
+            <li class="t"><a class="jqr" href="/vodhtml/3239.html" title="神奇女侠"><i class="bz">HD1280高清中字</i><i class="ico num">4</i>神奇女侠
+              <div class="lidown  clearfix">
+                <div class="lidown-l"><img src="http://ww1.sinaimg.cn/large/9dfd21afgy1fgjadjsmpij20bp0gnabd.jpg" alt="神奇女侠"><span class="ico scorebg"><b>7.0</b></span></div>
+                <div class="lidown-r">
+                  <p>主演：盖尔·加朵 / 克里斯·派恩</p>
+                  <p>地区：美国</p>
+                  <p>时间：2017-06-13</p>
+                </div>
+              </div>
+              </a></li>
+      
+            <li ><a class="jqr" href="/vodhtml/2884.html" title="银河护卫队2"><i class="bz">BD1280高清国语</i><i class="ico num">5</i>银河护卫队2
+              <div class="lidown  clearfix">
+                <div class="lidown-l"><img src="http://ww1.sinaimg.cn/large/9dfd21afgy1ffh72g0e40j20bx0gp40o.jpg" alt="银河护卫队2"><span class="ico scorebg"><b>7.3</b></span></div>
+                <div class="lidown-r">
+                  <p>主演：克里斯·普拉特</p>
+                  <p>地区：美国</p>
+                  <p>时间：2017-05-12</p>
+                </div>
+              </div>
+              </a></li>
+      
+            <li class="t"><a class="jqr" href="/vodhtml/3224.html" title="加勒比海盗5：死无对证"><i class="bz">HD1280高清中字</i><i class="ico num">6</i>加勒比海盗5：死无对证
+              <div class="lidown  clearfix">
+                <div class="lidown-l"><img src="http://ww1.sinaimg.cn/large/9dfd21afgy1fgi9n10t3yj21xg2pp4qv.jpg" alt="加勒比海盗5：死无对证"><span class="ico scorebg"><b>6.3</b></span></div>
+                <div class="lidown-r">
+                  <p>主演：约翰尼·德普 / 哈维尔·巴登</p>
+                  <p>地区：美国</p>
+                  <p>时间：2017-06-12</p>
+                </div>
+              </div>
+              </a></li>
+      
+            <li ><a class="jqr" href="/vodhtml/3210.html" title="盗墓迷城：木乃伊之日"><i class="bz">BD1280高清中字</i><i class="ico num">7</i>盗墓迷城：木乃伊之日
+              <div class="lidown  clearfix">
+                <div class="lidown-l"><img src="http://ww1.sinaimg.cn/large/9dfd21afgy1fghggtcqgkj209v0dwabk.jpg" alt="盗墓迷城：木乃伊之日"><span class="ico scorebg"><b>6.7</b></span></div>
+                <div class="lidown-r">
+                  <p>主演：丹尼·格洛弗</p>
+                  <p>地区：美国</p>
+                  <p>时间：2017-06-11</p>
+                </div>
+              </div>
+              </a></li>
+      
+            <li class="t"><a class="jqr" href="/vodhtml/2978.html" title="异形：契约"><i class="bz">HDTS1280清晰中字首发</i><i class="ico num">8</i>异形：契约
+              <div class="lidown  clearfix">
+                <div class="lidown-l"><img src="http://ww1.sinaimg.cn/large/9dfd21afgy1ffzp3lcdfkj20va18gwly.jpg" alt="异形：契约"><span class="ico scorebg"><b>7.2</b></span></div>
+                <div class="lidown-r">
+                  <p>主演：迈克尔·法斯宾德 / 凯瑟琳·沃特斯顿</p>
+                  <p>地区：美国</p>
+                  <p>时间：2017-05-27</p>
+                </div>
+              </div>
+              </a></li>
+      
+            <li ><a class="jqr" href="/vodhtml/2845.html" title="机器人世界"><i class="bz">BD1280高清中英双字</i><i class="ico num">9</i>机器人世界
+              <div class="lidown  clearfix">
+                <div class="lidown-l"><img src="http://122.228.200.55:8083/201705/jqrsj.jpg" alt="机器人世界"><span class="ico scorebg"><b>7.0</b></span></div>
+                <div class="lidown-r">
+                  <p>主演：Ian Rowe / Claire Soper</p>
+                  <p>地区：美国</p>
+                  <p>时间：2017-05-06</p>
+                </div>
+              </div>
+              </a></li>
+      
+            <li class="t"><a class="jqr" href="/vodhtml/2922.html" title="速度与激情8"><i class="bz">BD1280韩版高清中字</i><i class="ico num">10</i>速度与激情8
+              <div class="lidown  clearfix">
+                <div class="lidown-l"><img src="http://122.228.200.55:8083/201704/sdyjq8.jpg" alt="速度与激情8"><span class="ico scorebg"><b>6.3</b></span></div>
+                <div class="lidown-r">
+                  <p>主演：范·迪塞尔 / 道恩·强森 / 查理兹·塞隆 / 杰森·斯坦森</p>
+                  <p>地区：美国</p>
+                  <p>时间：2017-05-18</p>
+                </div>
+              </div>
+              </a></li>
+      
+<script type="text/javascript" language="javascript" src="/{seacms:sitepath}js/{seacms:adfolder}/m250.js"></script>
+          </ul>
+        </div>
+      </div>
+      <div class="row-l">
+        <div class="channelall">
+          <div class="channeltab clearfix">
+            <div class="px"><a class="on" href="/index.php?m=vod-list-id-1-pg-1-order--by-time-class--year--letter--area--lang-.html">最新<i class="ico sjxx"></i></a><a href="/index.php?m=vod-list-id-1-pg-1-order--by-hits-class--year--letter--area--lang-.html">最热</a><a href="/index.php?m=vod-list-id-1-pg-1-order--by-score-class--year--letter--area--lang-.html">好评</a></div>
+
+          </div>
+        </div>
+        <div class="channel">
+          <ul class="ul clearfix">
+
+          
+            <li><a class="link" href="/vodhtml/9422.html" title="将军在上之极乐净土"><div class="img"><img class="lazy" data-original="http://ww1.sinaimg.cn/large/9dfd21afgy1fmdrrprzksj20o10xm7bo.jpg" src="/template/b/images/lazyload.gif" alt="将军在上之极乐净土"><span class="bgb"><i class="bgbbg"></i><p class="name">BD1280高清中字</p><p class="other">主演：王瑄 / 翟宇佳</p><p class="other">地区/年代：大陆/2017</p></span><i class="bg0"></i></div><div class="text"><h2 class="name">将军在上之极乐净土</h2><p class="jq">喜剧片</p><div class="textdown"><p class="name">将军在上之极乐净土</p><p class="jq">喜剧片</p></div></div></a></li>
+             
+            <li><a class="link" href="/vodhtml/9421.html" title="常在你左右"><div class="img"><img class="lazy" data-original="http://ww1.sinaimg.cn/large/9dfd21afgy1fmd6f8zep6j20fm0m8dif.jpg" src="/template/b/images/lazyload.gif" alt="常在你左右"><span class="bgb"><i class="bgbbg"></i><p class="name">BD1280高清国粤双语中字</p><p class="other">主演：古天乐 / 张智霖 / 林家栋 / 蔡卓妍 / 佘诗曼</p><p class="other">地区/年代：大陆/2017</p></span><i class="bg0"></i></div><div class="text"><h2 class="name">常在你左右</h2><p class="jq">动作片</p><div class="textdown"><p class="name">常在你左右</p><p class="jq">动作片</p></div></div></a></li>
+             
+            <li><a class="link" href="/vodhtml/9396.html" title="雪人"><div class="img"><img class="lazy" data-original="http://ww1.sinaimg.cn/large/9dfd21afgy1fmd6mt4gijj20ge0n240v.jpg" src="/template/b/images/lazyload.gif" alt="雪人"><span class="bgb"><i class="bgbbg"></i><p class="name">BD1280高清中字</p><p class="other">主演：迈克尔·法斯宾德 / 丽贝卡·弗格森</p><p class="other">地区/年代：美国/2017</p></span><i class="bg0"></i></div><div class="text"><h2 class="name">雪人</h2><p class="jq">动作片</p><div class="textdown"><p class="name">雪人</p><p class="jq">动作片</p></div></div></a></li>
+             
+            <li><a class="link" href="/vodhtml/9395.html" title="暴雪将至"><div class="img"><img class="lazy" data-original="http://ww1.sinaimg.cn/large/9dfd21afgy1fmd6ixapy4j20et0m8jum.jpg" src="/template/b/images/lazyload.gif" alt="暴雪将至"><span class="bgb"><i class="bgbbg"></i><p class="name">BD1280高清中英双字</p><p class="other">主演：段奕宏 / 江一燕 / 杜源</p><p class="other">地区/年代：大陆/2017</p></span><i class="bg0"></i></div><div class="text"><h2 class="name">暴雪将至</h2><p class="jq">动作片</p><div class="textdown"><p class="name">暴雪将至</p><p class="jq">动作片</p></div></div></a></li>
+             
+            <li><a class="link" href="/vodhtml/9394.html" title="芳华"><div class="img"><img class="lazy" data-original="http://ww1.sinaimg.cn/large/9dfd21afgy1fmc5u2idc0j20jt0rsteq.jpg" src="/template/b/images/lazyload.gif" alt="芳华"><span class="bgb"><i class="bgbbg"></i><p class="name">TS1280高清中字</p><p class="other">主演：黄轩 / 苗苗 / 钟楚曦 /</p><p class="other">地区/年代：大陆/2017</p></span><i class="bg0"></i></div><div class="text"><h2 class="name">芳华</h2><p class="jq">战争片</p><div class="textdown"><p class="name">芳华</p><p class="jq">战争片</p></div></div></a></li>
+             
+            <li><a class="link" href="/vodhtml/9393.html" title="巨额来电"><div class="img"><img class="lazy" data-original="http://ww1.sinaimg.cn/large/9dfd21afgy1fmc4rr0yykj213p1jk1kz.jpg" src="/template/b/images/lazyload.gif" alt="巨额来电"><span class="bgb"><i class="bgbbg"></i><p class="name">TC1280清晰中字</p><p class="other">主演：陈学冬 / 张孝全 / 桂纶镁</p><p class="other">地区/年代：大陆/2017</p></span><i class="bg0"></i></div><div class="text"><h2 class="name">巨额来电</h2><p class="jq">动作片</p><div class="textdown"><p class="name">巨额来电</p><p class="jq">动作片</p></div></div></a></li>
+             
+            <li><a class="link" href="/vodhtml/9392.html" title="帕丁顿熊2"><div class="img"><img class="lazy" data-original="http://ww1.sinaimg.cn/large/9dfd21afgy1fmc4jlhdwuj21e01y0b2e.jpg" src="/template/b/images/lazyload.gif" alt="帕丁顿熊2"><span class="bgb"><i class="bgbbg"></i><p class="name">TC1280清晰中字</p><p class="other">主演：本·卫肖 / 休·格兰特 / 休·博内威利</p><p class="other">地区/年代：大陆/2017</p></span><i class="bg0"></i></div><div class="text"><h2 class="name">帕丁顿熊2</h2><p class="jq">喜剧片</p><div class="textdown"><p class="name">帕丁顿熊2</p><p class="jq">喜剧片</p></div></div></a></li>
+             
+            <li><a class="link" href="/vodhtml/9391.html" title="霍利·凯恩实验"><div class="img"><img class="lazy" data-original="http://ww1.sinaimg.cn/large/9dfd21afgy1fmc4yxzhtkj209e0dw750.jpg" src="/template/b/images/lazyload.gif" alt="霍利·凯恩实验"><span class="bgb"><i class="bgbbg"></i><p class="name">BD1280高清中英双字</p><p class="other">主演：Nicky Henson</p><p class="other">地区/年代：美国/2017</p></span><i class="bg0"></i></div><div class="text"><h2 class="name">霍利·凯恩实验</h2><p class="jq">恐怖片</p><div class="textdown"><p class="name">霍利·凯恩实验</p><p class="jq">恐怖片</p></div></div></a></li>
+             
+            <li><a class="link" href="/vodhtml/9390.html" title="酒会"><div class="img"><img class="lazy" data-original="http://ww1.sinaimg.cn/large/9dfd21afgy1fmc50n5voej20b70h075m.jpg" src="/template/b/images/lazyload.gif" alt="酒会"><span class="bgb"><i class="bgbbg"></i><p class="name">BD1280高清中字</p><p class="other">主演：基里安·墨菲</p><p class="other">地区/年代：美国/2017</p></span><i class="bg0"></i></div><div class="text"><h2 class="name">酒会</h2><p class="jq">喜剧片</p><div class="textdown"><p class="name">酒会</p><p class="jq">喜剧片</p></div></div></a></li>
+             
+            <li><a class="link" href="/vodhtml/9389.html" title="伏妖·白鱼镇"><div class="img"><img class="lazy" data-original="http://ww1.sinaimg.cn/large/9dfd21afgy1fmc4tnc3y2j21e01tkx65.jpg" src="/template/b/images/lazyload.gif" alt="伏妖·白鱼镇"><span class="bgb"><i class="bgbbg"></i><p class="name">BD1280高清中字</p><p class="other">主演：杜奕衡 / 林枫烨</p><p class="other">地区/年代：大陆/2017</p></span><i class="bg0"></i></div><div class="text"><h2 class="name">伏妖·白鱼镇</h2><p class="jq">动作片</p><div class="textdown"><p class="name">伏妖·白鱼镇</p><p class="jq">动作片</p></div></div></a></li>
+             
+            <li><a class="link" href="/vodhtml/9388.html" title="异能者3"><div class="img"><img class="lazy" data-original="http://ww1.sinaimg.cn/large/9dfd21afgy1fmc4whoqpij205006kwev.jpg" src="/template/b/images/lazyload.gif" alt="异能者3"><span class="bgb"><i class="bgbbg"></i><p class="name">BD1280高清中字</p><p class="other">主演：洪乐轩 孙宏胤</p><p class="other">地区/年代：大陆/2017</p></span><i class="bg0"></i></div><div class="text"><h2 class="name">异能者3</h2><p class="jq">动作片</p><div class="textdown"><p class="name">异能者3</p><p class="jq">动作片</p></div></div></a></li>
+             
+            <li><a class="link" href="/vodhtml/9361.html" title="太空救援"><div class="img"><img class="lazy" data-original="http://ww1.sinaimg.cn/large/9dfd21afgy1fmbhzu493fj20bu0gxwfi.jpg" src="/template/b/images/lazyload.gif" alt="太空救援"><span class="bgb"><i class="bgbbg"></i><p class="name">BD1280高清中字</p><p class="other">主演：柳波芙·阿克肖诺娃</p><p class="other">地区/年代：俄罗斯/2017</p></span><i class="bg0"></i></div><div class="text"><h2 class="name">太空救援</h2><p class="jq">动作片</p><div class="textdown"><p class="name">太空救援</p><p class="jq">动作片</p></div></div></a></li>
+             
+            <li><a class="link" href="/vodhtml/9360.html" title="神秘暗堡"><div class="img"><img class="lazy" data-original="http://ww1.sinaimg.cn/large/9dfd21afgy1fmazz8gqkxj209e0d5gn9.jpg" src="/template/b/images/lazyload.gif" alt="神秘暗堡"><span class="bgb"><i class="bgbbg"></i><p class="name">BD1280高清中英双字</p><p class="other">主演：肯·什姆洛克</p><p class="other">地区/年代：美国/2017</p></span><i class="bg0"></i></div><div class="text"><h2 class="name">神秘暗堡</h2><p class="jq">动作片</p><div class="textdown"><p class="name">神秘暗堡</p><p class="jq">动作片</p></div></div></a></li>
+             
+            <li><a class="link" href="/vodhtml/9359.html" title="菖蒲君的悠闲肉食日记"><div class="img"><img class="lazy" data-original="http://ww1.sinaimg.cn/large/9dfd21afgy1fmb044wbsaj20hs0p5tc4.jpg" src="/template/b/images/lazyload.gif" alt="菖蒲君的悠闲肉食日记"><span class="bgb"><i class="bgbbg"></i><p class="name">BD1280高清中字</p><p class="other">主演：黑羽麻璃央 / 足立梨花</p><p class="other">地区/年代：日本/2017</p></span><i class="bg0"></i></div><div class="text"><h2 class="name">菖蒲君的悠闲肉食日记</h2><p class="jq">喜剧片</p><div class="textdown"><p class="name">菖蒲君的悠闲肉食日记</p><p class="jq">喜剧片</p></div></div></a></li>
+             
+            <li><a class="link" href="/vodhtml/9332.html" title="兄弟，别闹！"><div class="img"><img class="lazy" data-original="http://ww1.sinaimg.cn/large/9dfd21afgy1fmaxbxrgrfj20pj1044a6.jpg" src="/template/b/images/lazyload.gif" alt="兄弟，别闹！"><span class="bgb"><i class="bgbbg"></i><p class="name">BD1280高清中英双字</p><p class="other">主演：高晓攀 / 尤宪超 / 于莎莎</p><p class="other">地区/年代：大陆/2017</p></span><i class="bg0"></i></div><div class="text"><h2 class="name">兄弟，别闹！</h2><p class="jq">喜剧片</p><div class="textdown"><p class="name">兄弟，别闹！</p><p class="jq">喜剧片</p></div></div></a></li>
+             
+            <li><a class="link" href="/vodhtml/9303.html" title="缝纫机乐队"><div class="img"><img class="lazy" data-original="http://ww1.sinaimg.cn/large/9dfd21afgy1fm9f01boqjj215o1mcnpd.jpg" src="/template/b/images/lazyload.gif" alt="缝纫机乐队"><span class="bgb"><i class="bgbbg"></i><p class="name">BD1280高清中英双字</p><p class="other">主演：大鹏 / 乔杉 / 古力娜扎 / 李鸿其</p><p class="other">地区/年代：大陆/2017</p></span><i class="bg0"></i></div><div class="text"><h2 class="name">缝纫机乐队</h2><p class="jq">喜剧片</p><div class="textdown"><p class="name">缝纫机乐队</p><p class="jq">喜剧片</p></div></div></a></li>
+             
+            <li><a class="link" href="/vodhtml/9302.html" title="帕蒂蛋糕"><div class="img"><img class="lazy" data-original="http://ww1.sinaimg.cn/large/9dfd21afgy1fm9gfaktp6j209e0e3q3w.jpg" src="/template/b/images/lazyload.gif" alt="帕蒂蛋糕"><span class="bgb"><i class="bgbbg"></i><p class="name">BD1280高清中英双字</p><p class="other">主演：凯西·莫拉蒂</p><p class="other">地区/年代：美国/2017</p></span><i class="bg0"></i></div><div class="text"><h2 class="name">帕蒂蛋糕</h2><p class="jq">剧情片</p><div class="textdown"><p class="name">帕蒂蛋糕</p><p class="jq">剧情片</p></div></div></a></li>
+             
+            <li><a class="link" href="/vodhtml/9301.html" title="人质们"><div class="img"><img class="lazy" data-original="http://ww1.sinaimg.cn/large/9dfd21afgy1fm9gb6ef8wj20if0p0q70.jpg" src="/template/b/images/lazyload.gif" alt="人质们"><span class="bgb"><i class="bgbbg"></i><p class="name">BD1280高清中英双字</p><p class="other">主演：阿福坦迪尔·马哈拉泽</p><p class="other">地区/年代：美国/2017</p></span><i class="bg0"></i></div><div class="text"><h2 class="name">人质们</h2><p class="jq">剧情片</p><div class="textdown"><p class="name">人质们</p><p class="jq">剧情片</p></div></div></a></li>
+             
+            <li><a class="link" href="/vodhtml/9300.html" title="打车惊魂"><div class="img"><img class="lazy" data-original="http://ww1.sinaimg.cn/large/9dfd21afgy1fm89amdrddj20ir0rsq7a.jpg" src="/template/b/images/lazyload.gif" alt="打车惊魂"><span class="bgb"><i class="bgbbg"></i><p class="name">BD1280高清中英双字</p><p class="other">主演：David Wachs</p><p class="other">地区/年代：美国/2017</p></span><i class="bg0"></i></div><div class="text"><h2 class="name">打车惊魂</h2><p class="jq">恐怖片</p><div class="textdown"><p class="name">打车惊魂</p><p class="jq">恐怖片</p></div></div></a></li>
+             
+            <li><a class="link" href="/vodhtml/9299.html" title="母亲！"><div class="img"><img class="lazy" data-original="http://ww1.sinaimg.cn/large/9dfd21afgy1fm89c7gvcsj20dr0kzgp2.jpg" src="/template/b/images/lazyload.gif" alt="母亲！"><span class="bgb"><i class="bgbbg"></i><p class="name">BD1280高清中英双字</p><p class="other">主演：詹妮弗·劳伦斯</p><p class="other">地区/年代：美国/2017</p></span><i class="bg0"></i></div><div class="text"><h2 class="name">母亲！</h2><p class="jq">恐怖片</p><div class="textdown"><p class="name">母亲！</p><p class="jq">恐怖片</p></div></div></a></li>
+             
+            <li><a class="link" href="/vodhtml/9298.html" title="镇魂法师"><div class="img"><img class="lazy" data-original="http://ww1.sinaimg.cn/large/9dfd21afgy1fm9ey8uhe7j20yi1pcqgz.jpg" src="/template/b/images/lazyload.gif" alt="镇魂法师"><span class="bgb"><i class="bgbbg"></i><p class="name">BD1280高清中字</p><p class="other">主演：吴千语 / 陈信喆</p><p class="other">地区/年代：大陆/2017</p></span><i class="bg0"></i></div><div class="text"><h2 class="name">镇魂法师</h2><p class="jq">动作片</p><div class="textdown"><p class="name">镇魂法师</p><p class="jq">动作片</p></div></div></a></li>
+             
+            <li><a class="link" href="/vodhtml/9297.html" title="童话先生"><div class="img"><img class="lazy" data-original="http://ww1.sinaimg.cn/large/9dfd21afgy1fm9co5yeovj215c1ly4mc.jpg" src="/template/b/images/lazyload.gif" alt="童话先生"><span class="bgb"><i class="bgbbg"></i><p class="name">BD1280高清中英双字</p><p class="other">主演：曹操 / 王静博 / 甫枭虎</p><p class="other">地区/年代：大陆/2017</p></span><i class="bg0"></i></div><div class="text"><h2 class="name">童话先生</h2><p class="jq">喜剧片</p><div class="textdown"><p class="name">童话先生</p><p class="jq">喜剧片</p></div></div></a></li>
+             
+            <li><a class="link" href="/vodhtml/9296.html" title="大嫂"><div class="img"><img class="lazy" data-original="http://ww1.sinaimg.cn/large/9dfd21afgy1fm9eoy6d1gj212g1jkqbh.jpg" src="/template/b/images/lazyload.gif" alt="大嫂"><span class="bgb"><i class="bgbbg"></i><p class="name">BD1280高清中字</p><p class="other">主演：徐冬冬 / 张锦程 / 伍允龙</p><p class="other">地区/年代：大陆/2017</p></span><i class="bg0"></i></div><div class="text"><h2 class="name">大嫂</h2><p class="jq">剧情片</p><div class="textdown"><p class="name">大嫂</p><p class="jq">剧情片</p></div></div></a></li>
+             
+            <li><a class="link" href="/vodhtml/9295.html" title="神将归来：阿修罗之泪"><div class="img"><img class="lazy" data-original="http://ww1.sinaimg.cn/large/9dfd21afgy1fm9eu6mph3j206708974e.jpg" src="/template/b/images/lazyload.gif" alt="神将归来：阿修罗之泪"><span class="bgb"><i class="bgbbg"></i><p class="name">BD1280高清中字</p><p class="other">主演：王紫潼 宋翊菲</p><p class="other">地区/年代：大陆/2017</p></span><i class="bg0"></i></div><div class="text"><h2 class="name">神将归来：阿修罗之泪</h2><p class="jq">动作片</p><div class="textdown"><p class="name">神将归来：阿修罗之泪</p><p class="jq">动作片</p></div></div></a></li>
+             
+            <li><a class="link" href="/vodhtml/9263.html" title="敦刻尔克"><div class="img"><img class="lazy" data-original="http://ww1.sinaimg.cn/large/9dfd21afgy1fm894wupdfj20gz0p0tat.jpg" src="/template/b/images/lazyload.gif" alt="敦刻尔克"><span class="bgb"><i class="bgbbg"></i><p class="name">BD1280高清中英双字</p><p class="other">主演：菲恩·怀特海德</p><p class="other">地区/年代：美国/2017</p></span><i class="bg0"></i></div><div class="text"><h2 class="name">敦刻尔克</h2><p class="jq">战争片</p><div class="textdown"><p class="name">敦刻尔克</p><p class="jq">战争片</p></div></div></a></li>
+             
+            <li><a class="link" href="/vodhtml/9259.html" title="红衣小女孩2"><div class="img"><img class="lazy" data-original="http://ww1.sinaimg.cn/large/9dfd21afgy1fm82egige9j20go0ntn1f.jpg" src="/template/b/images/lazyload.gif" alt="红衣小女孩2"><span class="bgb"><i class="bgbbg"></i><p class="name">BD1280高清中字</p><p class="other">主演：杨丞琳</p><p class="other">地区/年代：台湾/2017</p></span><i class="bg0"></i></div><div class="text"><h2 class="name">红衣小女孩2</h2><p class="jq">恐怖片</p><div class="textdown"><p class="name">红衣小女孩2</p><p class="jq">恐怖片</p></div></div></a></li>
+             
+            <li><a class="link" href="/vodhtml/9261.html" title="蜜月计划"><div class="img"><img class="lazy" data-original="http://ww1.sinaimg.cn/large/9dfd21afgy1fm81xk7yo4j20rs12wb29.jpg" src="/template/b/images/lazyload.gif" alt="蜜月计划"><span class="bgb"><i class="bgbbg"></i><p class="name">BD1280高清中字</p><p class="other">主演：孙坚 / 陈燃 / 汪洋</p><p class="other">地区/年代：大陆/2017</p></span><i class="bg0"></i></div><div class="text"><h2 class="name">蜜月计划</h2><p class="jq">爱情片</p><div class="textdown"><p class="name">蜜月计划</p><p class="jq">爱情片</p></div></div></a></li>
+             
+            <li><a class="link" href="/vodhtml/9262.html" title="血战湘江"><div class="img"><img class="lazy" data-original="http://ww1.sinaimg.cn/large/9dfd21afgy1fm827emousj22b3383x6p.jpg" src="/template/b/images/lazyload.gif" alt="血战湘江"><span class="bgb"><i class="bgbbg"></i><p class="name">BD1280高清中字</p><p class="other">主演：王霙 / 徐箭 / 董勇</p><p class="other">地区/年代：大陆/2017</p></span><i class="bg0"></i></div><div class="text"><h2 class="name">血战湘江</h2><p class="jq">战争片</p><div class="textdown"><p class="name">血战湘江</p><p class="jq">战争片</p></div></div></a></li>
+             
+            <li><a class="link" href="/vodhtml/9258.html" title="兄弟"><div class="img"><img class="lazy" data-original="http://ww1.sinaimg.cn/large/9dfd21afgy1fm81s8sxg9j20hj0p0tdv.jpg" src="/template/b/images/lazyload.gif" alt="兄弟"><span class="bgb"><i class="bgbbg"></i><p class="name">BD1280高清中字</p><p class="other">主演：马东锡</p><p class="other">地区/年代：韩国/2017</p></span><i class="bg0"></i></div><div class="text"><h2 class="name">兄弟</h2><p class="jq">喜剧片</p><div class="textdown"><p class="name">兄弟</p><p class="jq">喜剧片</p></div></div></a></li>
+             
+            <li><a class="link" href="/vodhtml/9257.html" title="卧底爷爷"><div class="img"><img class="lazy" data-original="http://ww1.sinaimg.cn/large/9dfd21afgy1fm81pu3qlgj207i0b1t9l.jpg" src="/template/b/images/lazyload.gif" alt="卧底爷爷"><span class="bgb"><i class="bgbbg"></i><p class="name">BD1280高清中字</p><p class="other">主演：詹姆斯·肯恩</p><p class="other">地区/年代：美国/2017</p></span><i class="bg0"></i></div><div class="text"><h2 class="name">卧底爷爷</h2><p class="jq">喜剧片</p><div class="textdown"><p class="name">卧底爷爷</p><p class="jq">喜剧片</p></div></div></a></li>
+                            
+</ul>
+        </div>
+        <div class="page clearfix">
+共2369条数据&nbsp;当前:1/79页&nbsp;<em>首页</em>&nbsp;<em>上一页</em>&nbsp;<span class="pagenow">1</span>&nbsp;<a target="_self" href="/index.php?m=vod-type-id-1-pg-2.html" class="pagelink_a">下一页</a>&nbsp;<a target="_self" href="/index.php?m=vod-type-id-1-pg-79.html" class="pagelink_a">尾页</a>&nbsp;<input type="input" name="page" id="page" size="4" class="pagego"/><input type="button" value="跳 转" onclick="pagego('/index.php?m=vod-type-id-1-pg-{pg}.html',79)" class="pagebtn" />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+﻿<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1254046816'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/z_stat.php%3Fid%3D1254046816%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>
+<div class="footer mb-r clearfix">
+  <div class="wrap">
+    <p>本网站的最新热门的视频资源均系采集于各大门户网站，只分享web页面服务，并不提供影片资源存储，也不参与录制、上传</p>
+    <p>若本站收录的节目无意侵犯了贵司版权，我们会及时删除处理。</p>
+    <p>Copyright ©2016- <a href="http://www.33uu.com/">33UU电影网</a> · </p>
+    </div>
+</div>
+<div class="gotop"><a class="ico gotopbg" href="javascript:;" title="返回顶部"></a></div>
+
+</body>
+</html>
