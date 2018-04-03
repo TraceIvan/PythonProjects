@@ -62,11 +62,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="adaboost.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AdaBoost/adaboost.py">
+      <file leaf-file-name="adaboostDS.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AdaBoost/adaboostDS.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
-              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+            <state relative-caret-position="284">
+              <caret line="104" column="22" lean-forward="true" selection-start-line="104" selection-start-column="22" selection-end-line="104" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="预测病马死亡率-AdaBoostDS.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AdaBoost/预测病马死亡率-AdaBoostDS.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -133,6 +145,8 @@
         <option value="$PROJECT_DIR$/SVM支持向量机/svmPlatt_SMO_rtf核函数.py" />
         <option value="$PROJECT_DIR$/SVM支持向量机/svmPlatt_SMO_识别手写数字.py" />
         <option value="$PROJECT_DIR$/AdaBoost/adaboost.py" />
+        <option value="$PROJECT_DIR$/AdaBoost/adaboostDS.py" />
+        <option value="$PROJECT_DIR$/AdaBoost/预测病马死亡率-AdaBoostDS.py" />
       </list>
     </option>
   </component>
@@ -142,7 +156,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="514" />
     <option name="y" value="2" />
     <option name="width" value="1400" />
@@ -180,6 +194,11 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Python\智能算法\主成分分析" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -192,7 +211,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.logRegres_bin">
+  <component name="RunManager" selected="Python.adaboostDS">
     <configuration name="预测病马死亡率" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="智能算法" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -269,6 +288,44 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="adaboost" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="智能算法" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AdaBoost" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\Python\智能算法\AdaBoost\adaboostDS.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="adaboostDS" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="智能算法" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AdaBoost" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AdaBoost/adaboostDS.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="logRegres_bin" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="智能算法" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -283,25 +340,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Logistic回归/logRegres_bin.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="svmPlatt_SMO" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="智能算法" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SVM支持向量机" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SVM支持向量机/svmPlatt_SMO.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -326,39 +364,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="svmPlatt_SMO_rtf核函数" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="智能算法" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SVM支持向量机" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SVM支持向量机/svmPlatt_SMO_rtf核函数.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list>
-      <item itemvalue="Python.svmPlatt_SMO" />
-      <item itemvalue="Python.svmPlatt_SMO_rtf核函数" />
       <item itemvalue="Python.svmPlatt_SMO_识别手写数字" />
       <item itemvalue="Python.logRegres_bin" />
       <item itemvalue="Python.预测病马死亡率" />
+      <item itemvalue="Python.adaboost" />
+      <item itemvalue="Python.adaboostDS" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.adaboostDS" />
+        <item itemvalue="Python.adaboost" />
         <item itemvalue="Python.logRegres_bin" />
         <item itemvalue="Python.预测病马死亡率" />
         <item itemvalue="Python.svmPlatt_SMO_识别手写数字" />
-        <item itemvalue="Python.svmPlatt_SMO_rtf核函数" />
-        <item itemvalue="Python.svmPlatt_SMO" />
       </list>
     </recent_temporary>
   </component>
@@ -385,13 +404,13 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32885906" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32438478" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32438478" />
       <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="8" weight="0.30872482" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32997763" />
@@ -400,7 +419,7 @@
       <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="right" id="SciView" order="4" weight="0.22334754" />
       <window_info id="Structure" order="1" sideWeight="0.5010101" side_tool="true" weight="0.117803834" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.44630873" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.44630873" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -427,7 +446,7 @@
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/PCA_2.py</url>
+          <url>file://$PROJECT_DIR$/主成分分析/PCA_2.py</url>
           <option name="timeStamp" value="33" />
         </line-breakpoint>
       </breakpoints>
@@ -442,16 +461,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/文本预处理/EN_pre_process.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SVM支持向量机/svmMLiA-简化SMO.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4410">
@@ -519,49 +528,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PCA_2.py">
+    <entry file="file://$PROJECT_DIR$/主成分分析/PCA_2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="780">
           <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PCA.py">
+    <entry file="file://$PROJECT_DIR$/主成分分析/PCA.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1110">
           <caret line="37" column="34" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PCA_2.py">
+    <entry file="file://$PROJECT_DIR$/主成分分析/PCA_2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="780">
           <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PCA_2.py">
+    <entry file="file://$PROJECT_DIR$/主成分分析/PCA_2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="780">
           <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PCA_2.py">
+    <entry file="file://$PROJECT_DIR$/主成分分析/PCA_2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="900">
           <caret line="31" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PCA.py">
+    <entry file="file://$PROJECT_DIR$/主成分分析/PCA.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1110">
           <caret line="37" column="34" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PCA_2.py">
+    <entry file="file://$PROJECT_DIR$/主成分分析/PCA_2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="870">
           <caret line="30" column="18" lean-forward="true" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
@@ -645,7 +654,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PCA.py">
+    <entry file="file://$PROJECT_DIR$/主成分分析/PCA.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="366">
           <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
@@ -666,7 +675,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PCA_2.py">
+    <entry file="file://$PROJECT_DIR$/主成分分析/PCA_2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="780">
           <caret line="26" selection-start-line="26" selection-end-line="26" />
@@ -823,10 +832,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AdaBoost/adaboost.py">
+    <entry file="file://$PROJECT_DIR$/AdaBoost/adaboostDS.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+        <state relative-caret-position="284">
+          <caret line="104" column="22" lean-forward="true" selection-start-line="104" selection-start-column="22" selection-end-line="104" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdaBoost/预测病马死亡率-AdaBoostDS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
