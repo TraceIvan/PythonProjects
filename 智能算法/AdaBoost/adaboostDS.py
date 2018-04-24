@@ -85,7 +85,7 @@ def adaBoostTrainDS(dataArr,classLabels,numIt=40):
         print("total error: ",errorRate)
         if errorRate==0.0:
             break
-    return weakClassArr
+    return weakClassArr,aggClassEst
 #AdaBoost分类函数,即利用训练出的多个弱分类器进行分类
 def adaClassify(datToClass,classifierArr):
     dataMatrix=np.mat(datToClass)
@@ -98,7 +98,7 @@ def adaClassify(datToClass,classifierArr):
     return np.sign(aggClassEst)#返回符号
 if __name__=='__main__':
     datMat,classLabels=loadSimpData()
-    classifierArray=adaBoostTrainDS(datMat,classLabels,9)
+    classifierArray,aggClassEst=adaBoostTrainDS(datMat,classLabels,9)
     print(classifierArray)
     classifiedResult=adaClassify(datMat,classifierArray)
     print(classifiedResult)

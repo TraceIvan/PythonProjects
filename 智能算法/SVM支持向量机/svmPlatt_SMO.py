@@ -34,22 +34,25 @@ def kernelTrans(X,A,kTup):
     elif kTup[0]=='rbf':
         for j in range(m):
             deltaRow=X[j,:]-A
-            K[j]=deltaRow*deltaRow.T
-        K=np.exp(K/(-1*kTup[1]**2))#使用径向基函数这一核函数映射。此处为元素间的除法
+            K[j]=(deltaRow*deltaRow.T)/(-2*kTup[1]**2)
+            K[j]=np.exp(K[j])#使用径向基函数这一核函数映射。此处为元素间的除法
     else:
         raise NameError('Houston We Have a Problem -- That Kernel is not recognized.')
     return K
+
 def calcEk(oS,k):
     #fXk=float(np.multiply(oS.alphas,oS.labelMat).T*(oS.X*oS.X[k,:].T))+oS.b#未使用核函数
     fXk=float(np.multiply(oS.alphas,oS.labelMat).T*oS.K[:,k]+oS.b)#使用核函数
     Ek=fXk-float(oS.labelMat[k])
     return Ek
+
 #i为第一个alpha的下标，m为所有alpha的数目，随机选择一个下标值
 def selectJrand(i,m):
     j=i
     while(j==i):
         j=int(random.uniform(0,m))
     return j
+
 #选择第二个(内循环)合适的alpha的值，保证每次优化中采用最大步长
 def selectJ(i,oS,Ei):
     maxK=-1
@@ -72,10 +75,12 @@ def selectJ(i,oS,Ei):
         j=selectJrand(i,oS.m)
         Ej=calcEk(oS,j)
     return j,Ej
+
 #计算误差并且存入缓存
 def updateEk(oS,k):
     Ek=calcEk(oS,k)
     oS.eCache[k]=[1,Ek]
+
 #调整大于H或小于L的alpha值
 def clipAlpha(aj,H,L):
     if aj>H:
@@ -148,28 +153,28 @@ def smoP(dataMatIn,classLabels,C,toler,maxIter,kTup=('lin',0)):
     :return: b与alphas
     '''
     oS=optStruct(np.mat(dataMatIn),np.mat(classLabels).transpose(),C,toler,kTup)
+    print(oS.K)
     iter=0
     entireSet=True
     alphaPairsChanged=0
-    while(iter<maxIter) and ((alphaPairsChanged>0) or (entireSet)):
+    while(iter<maxIter):#while(iter<maxIter) and ((alphaPairsChanged>0) or (entireSet)):
         alphaPairsChanged=0
         if entireSet:
             for i in range(oS.m):
                 alphaPairsChanged+=innerL(i,oS)
                 print('fullSet, iter :%d i: %d, pairs changed %d'%(iter,i,alphaPairsChanged))
-            iter+=1
         else:
             nonBoundIs=np.nonzero((oS.alphas.A>0)*(oS.alphas.A<C))[0]
             for i in nonBoundIs:
                 alphaPairsChanged+=innerL(i,oS)
                 print('non-bound, iter: %d i: %d, pairs changed %d'%(iter,i,alphaPairsChanged))
-            iter+=1
+        iter+=1
         if entireSet:
             entireSet=False
         elif (alphaPairsChanged==0):
             entireSet=True
         print("iteration number: %d"%iter)
-    return oS.b,oS.alphas
+    return oS.b,oS.alphas,oS.K
 
 #得到超平面系数w
 def calcWs(alphas,dataArr,classLabels):
@@ -206,48 +211,42 @@ def classifySVM(dataArr,Ws,b):
     return clf_re
 
 def plotSupportVectors(Ws,b,alphas,dataArr,labelArr):
-    dataMatrix=np.mat(dataArr)
-    labelMat=np.mat(labelArr)
-    (m,n)=np.shape(dataArr)
-    xcord0 = []
-    ycord0 = []
-    xcord1 = []
-    ycord1 = []
-    markers = []
-    colors = []
-    for i in range(m):
-        if labelMat[0,i]==-1:
-            xcord0.append(dataMatrix[i,0])
-            ycord0.append(dataMatrix[i,1])
+    # 分类数据点
+    classified_pts = {'+1': [], '-1': []}
+    for point, label in zip(dataArr, labelArr):
+        if label == 1.0:
+            classified_pts['+1'].append(point)
         else:
-            xcord1.append(dataMatrix[i,0])
-            ycord1.append(dataMatrix[i,1])
-
+            classified_pts['-1'].append(point)
 
     fig = plt.figure()
     ax = fig.add_subplot(111)
-    ax.scatter(xcord0, ycord0, marker='s')
-    ax.scatter(xcord1, ycord1, marker='o', c='red')
-    plt.title('Support Vectors Circled')
-    spVec=np.nonzero(alphas)[0]
-    for i in spVec:
-        xi=dataMatrix[i,0]
-        yi=dataMatrix[i,1]
-        circle = Circle((xi,yi), 0.3, facecolor='none', edgecolor=(0, 0.8, 0.8), linewidth=3,
-                    alpha=0.5)
-        ax.add_patch(circle)
-    # plot seperating hyperplane
-    w0 = Ws[0,0]
-    w1 = Ws[1,0]
-    x = np.arange(-2.0, 12.0, 0.1)
-    y = np.array((-w0 * x - b) / w1)[0]
-    ax.plot(x, y)
-    plt.axis([-2, 12, -8, 6])
+
+    # 绘制数据点
+    for label, pts in classified_pts.items():
+        pts = np.array(pts)
+        ax.scatter(pts[:, 0], pts[:, 1], label=label)
+
+    # 绘制分割线
+    x1= max(dataArr, key=lambda x: x[0])[0]
+    x2= min(dataArr, key=lambda x: x[0])[0]
+    a1, a2 = Ws[:,0]
+    b=b[0,0]
+    y1, y2 = (-b - a1 * x1) / a2, (-b - a1 * x2) / a2
+    ax.plot([x1, x2], [y1, y2])
+
+    # 绘制支持向量
+    for i, alpha in enumerate(alphas):
+        if abs(alpha) > 1e-3:
+            x, y = dataArr[i]
+            ax.scatter([x], [y], s=150, c='none', alpha=0.7,
+                       linewidth=1.5, edgecolor='#AB3319')
+
     plt.show()
 
 if __name__=='__main__':
     dataArr,labelArr=loadDataSet('testSet.txt')
-    b,alphas=smoP(dataArr,labelArr,100,0.0001,400)
+    b,alphas=smoP(dataArr,labelArr,0.8,0.001,40)
     print(b)
     print(alphas)
     Ws=calcWs(alphas,dataArr,labelArr)

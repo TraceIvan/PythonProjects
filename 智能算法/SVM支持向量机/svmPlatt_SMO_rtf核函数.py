@@ -6,7 +6,8 @@ def testRbf(k1=1.3):
     :return:
     '''
     dataArr,labelArr=svmSMO.loadDataSet('testSetRBF.txt')
-    b,alphas=svmSMO.smoP(dataArr,labelArr,200,0.0001,10000,('rbf',k1))
+    b,alphas,Ks=svmSMO.smoP(dataArr,labelArr,200,0.0001,100,('rbf',k1))
+    print(Ks)
     dataMat=np.mat(dataArr)
     labelMat=np.mat(labelArr).transpose()
     svInd=np.nonzero(alphas.A>0)[0]

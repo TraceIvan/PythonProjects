@@ -1,6 +1,6 @@
 import math
 import numpy
-from collections import Counter,_itemgetter
+from collections import Counter
 from functools import reduce
 import operator
 import pickle
@@ -164,7 +164,7 @@ def plotMidText(cntrPt,parentPt,txtString):
     #计算父结点和子节点的中间位置
     xMid=(parentPt[0]-cntrPt[0])/2.0+cntrPt[0]
     yMid=(parentPt[1]-cntrPt[1])/2.0+cntrPt[1]
-    ax1.text(xMid,yMid,txtString,color='blue',size=15,rotation=30)#添加文本标签信息
+    ax1.text(xMid,yMid,txtString,color='blue',size=15,rotation=-30)#添加文本标签信息
 
 #绘制带箭头的注解
 def plotNode(nodeTxt,centerPt,parentPt,nodeType):
