@@ -30,3 +30,5 @@ def inference(input_tensor,regularizer):
         layer2=tf.matmul(layer1,weights)+biases
 
     return layer2
+
+

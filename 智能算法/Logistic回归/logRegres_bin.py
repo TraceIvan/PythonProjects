@@ -9,7 +9,7 @@ def loadDataSet():
     with open('testSet.txt','rb') as fr:
         for line in fr.readlines():
             linArr=line.strip().split()
-            dataMat.append([1.0,float(linArr[0]),float(linArr[1])])#每行前两个为X1,X2特征值，X0置为1
+            dataMat.append([1.0,float(linArr[0]),float(linArr[1])])#每行前两个为X1,X2特征值，X0置为1(常数)
             labelMat.append(int(linArr[2]))#第三个为类别标签
     return np.mat(dataMat),np.mat(labelMat)
 #sigmoid函数
@@ -63,7 +63,7 @@ def show(dataMat,labelMat,weights):
     plt.scatter(xcoord1,ycoord1,s=15,c='red')
     plt.scatter(xcoord2,ycoord2,s=15,c='blue')
     x=np.arange(min_x,max_x,0.1)
-    y=(-float(weights[0])-float(weights[1])*x)/float(weights[2])
+    y=(-float(weights[0])-float(weights[1])*x)/float(weights[2])#分割线：0=w1*x1+w2*x2+w0
     plt.plot(x,y)
     plt.xlabel('x1')
     plt.ylabel('x2')

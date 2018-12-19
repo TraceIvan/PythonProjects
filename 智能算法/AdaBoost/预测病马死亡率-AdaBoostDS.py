@@ -19,7 +19,7 @@ def plotROC(predStrengths,classLabels):
     fig.clf()
     ax=plt.subplot(111)
     for index in sortedIndicies.tolist()[0]:#在所有排序值上循环
-        if classLabels[index]==1.0:#每得到一个标签为1的类，沿y轴下降一个步长,降低假阳率
+        if classLabels[index]==1.0:#每得到一个标签为1的类，沿y轴下降一个步长,降低真阳率
             delX=0
             delY=yStep
         else:#否则x轴上倒退一个步长，降低假阴率

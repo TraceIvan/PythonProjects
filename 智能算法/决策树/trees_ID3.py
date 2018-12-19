@@ -1,5 +1,6 @@
 import math
 import numpy
+import csv
 from collections import Counter
 from functools import reduce
 import operator
@@ -184,12 +185,13 @@ def plotTree(myTree,parentPt,nodeTxt):
     plotNode(firstStr,cntrPt,parentPt,decisionNode)
     secondDict=myTree[firstStr]
     y0ff=y0ff-1.0/totalD#按比例减少
+    types=['no lenses contact lenses','soft contact lenses','no contact lenses','hard contact lenses']
     for key in secondDict.keys():
         if type(secondDict[key]).__name__=='dict':
             plotTree(secondDict[key],cntrPt,str(key))
         else:#叶结点
             x0ff=x0ff+1.0/totalW
-            plotNode(secondDict[key],(x0ff,y0ff),cntrPt,leafNode)
+            plotNode(str(types.index(secondDict[key])),(x0ff,y0ff),cntrPt,leafNode)
             plotMidText((x0ff,y0ff),cntrPt,str(key))
     y0ff=y0ff+1.0/totalD
 
@@ -227,7 +229,16 @@ def grabTree(filename):
     with open(filename,'rb') as fr:
         return pickle.load(fr)
 
+
+def To_csv_with_name(data,path,name):
+    with open(path,"w",encoding="utf8") as of:
+        csvWriter=csv.writer(of,delimiter=",")
+        csvWriter.writerow(name)
+        for line in data:
+            csvWriter.writerow(line)
+
 if __name__=='__main__':
+    '''
     myDat,labels=createDataSet()
     print(myDat)
     print(calcshannonEnt(myDat))
@@ -244,10 +255,19 @@ if __name__=='__main__':
     storeTree(myTree,'isFish.txt')
     stTree=grabTree('isFish.txt')
     print(stTree)
+    '''
     #使用决策树预测隐形眼镜类型
     with open('lenses.txt','r') as fr:
         lenses=[inst.strip().split('\t') for inst in fr.readlines()]
+        print(lenses)
         lensesLabels=['age','prescript','astigmatic','tearRate']#年龄；处方用镜片；散光；眼泪产量
         lensesTree=createTree(lenses,lensesLabels)
-        print(lensesTree)
+        print("决策树",lensesTree)
+        err=0
+        lensesLabels = ['age', 'prescript', 'astigmatic', 'tearRate']
+        for i in range(len(lenses)):
+            classLabel=classify(lensesTree,lensesLabels,lenses[i])
+            if classLabel!=lenses[i][-1]:
+                err+=1
+        print("err:",err,",err_rate:",err/len(lenses))
         createPlot(lensesTree)

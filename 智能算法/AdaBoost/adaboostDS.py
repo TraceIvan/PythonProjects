@@ -44,7 +44,7 @@ def buildStump(dataArr,classLabels,D):
                 errArr=np.mat(np.ones((m,1)))#表示预测是否和真实标签一样
                 errArr[predictedVals==labelMat]=0#一样的置为0
                 weightedError=D.T*errArr#计算加权错误率
-                print('split: dim %d, thresh %.2f, thresh inequal: %s, the weighted error is %.3f'%(i,threshVal,inequal,weightedError))
+                #print('split: dim %d, thresh %.2f, thresh inequal: %s, the weighted error is %.3f'%(i,threshVal,inequal,weightedError))
 
                 if weightedError<minError:
                     minError=weightedError

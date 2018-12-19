@@ -183,4 +183,5 @@ if __name__=='__main__':
     print(dataArr)
     labels=['sepal length','sepal width','petal length','petal width']
     myTree = createTree(dataArr, labels)
+    print(myTree)
     createPlot(myTree)

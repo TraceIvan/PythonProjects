@@ -5,8 +5,8 @@ while a%b:
     a,b=b,a%b
 print("12和32的最大公约数为：%d\n"%b)
 print("请输入两个整数：")
-x=input();
-y=input();
+x=input()
+y=input()
 x1=int(x)
 y1=int(y)
 if x1<y1:
