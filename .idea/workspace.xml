@@ -2,100 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df7a1138-a12b-492d-9d9c-4d7501725e13" name="Default" comment="1111">
-      <change afterPath="$PROJECT_DIR$/BasicSR/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicSR/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BiRNN_wav_OCR/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BiRNN_wav_OCR/MFCC特征提取.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BiRNN_wav_OCR/base.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BiRNN_wav_OCR/showUI.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BiRNN_wav_OCR/test001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BiRNN_wav_OCR/train.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ESRGAN/.idea/ESRGAN.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ESRGAN/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ESRGAN/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ESRGAN/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ESRGAN/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ESRGAN/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ESRGAN/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_license_OCR/GUI.ui" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sklearn示例/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sklearn示例/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sklearn示例/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sklearn示例/.idea/sklearn示例.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sklearn示例/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sklearn示例/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sklearn示例/08163260 朱璋.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sklearn示例/鸢尾花PAC_SVC_tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/智能算法/TensorFlow/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/智能算法/TensorFlow/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/智能算法/TensorFlow/DCGAN/align.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/智能算法/TensorFlow/DCGAN/dcgan_train.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/智能算法/TensorFlow/DCGAN/model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/智能算法/TensorFlow/DCGAN/ops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/智能算法/TensorFlow/DCGAN/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/.idea/MNIST.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/卷积网络优化.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/智能算法/TensorFlow/RNN/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/智能算法/TensorFlow/RNN/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/智能算法/TensorFlow/RNN/echo模拟.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/智能算法/TensorFlow/RNN/退位减法器.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/智能算法/TensorFlow/回归/多分类logistic回归.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/智能算法/TensorFlow/回归/线性logistic回归.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/智能算法/TensorFlow/图像处理/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/智能算法/TensorFlow/图像处理/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/智能算法/TensorFlow/图像处理/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/智能算法/TensorFlow/图像处理/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/智能算法/TensorFlow/图像处理/.idea/图像处理.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/智能算法/主成分分析/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/智能算法/主成分分析/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/智能算法/主成分分析/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/智能算法/主成分分析/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/智能算法/主成分分析/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/智能算法/主成分分析/.idea/主成分分析.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/智能算法/决策树/CART回归树.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/智能算法/决策树/CART模型树.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/智能算法/决策树/bikeSpeedVsIq_test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/智能算法/决策树/bikeSpeedVsIq_train.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/智能算法/决策树/ex0.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/智能算法/决策树/ex00.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/智能算法/决策树/ex2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/智能算法/决策树/ex2test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/智能算法/决策树/exp2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/智能算法/决策树/树回归预测及评价.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/智能算法/数据预处理/随机抽取指定数目样本.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasicSR/codes/options/test/test_ESRGAN.json" beforeDir="false" afterPath="$PROJECT_DIR$/BasicSR/codes/options/test/test_ESRGAN.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/智能算法/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/智能算法/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/智能算法/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/智能算法/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/智能算法/.idea/智能算法.iml" beforeDir="false" afterPath="$PROJECT_DIR$/智能算法/.idea/智能算法.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/智能算法/TensorFlow/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/智能算法/TensorFlow/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/mnist_eval.py" beforeDir="false" afterPath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/mnist_eval.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/mnist_inference.py" beforeDir="false" afterPath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/mnist_inference.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/mnist_train.py" beforeDir="false" afterPath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/mnist_train.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/checkpoint" beforeDir="false" afterPath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/checkpoint" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-26000.data-00000-of-00001" beforeDir="false" afterPath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-26000.data-00000-of-00001" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-26000.index" beforeDir="false" afterPath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-26000.index" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-26000.meta" beforeDir="false" afterPath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-26000.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-27000.data-00000-of-00001" beforeDir="false" afterPath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-27000.data-00000-of-00001" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-27000.index" beforeDir="false" afterPath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-27000.index" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-27000.meta" beforeDir="false" afterPath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-27000.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-28000.data-00000-of-00001" beforeDir="false" afterPath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-28000.data-00000-of-00001" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-28000.index" beforeDir="false" afterPath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-28000.index" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-28000.meta" beforeDir="false" afterPath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-28000.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-29000.data-00000-of-00001" beforeDir="false" afterPath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-29000.data-00000-of-00001" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-29000.index" beforeDir="false" afterPath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-29000.index" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-29000.meta" beforeDir="false" afterPath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-29000.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-30000.data-00000-of-00001" beforeDir="false" afterPath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-30000.data-00000-of-00001" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-30000.index" beforeDir="false" afterPath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-30000.index" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-30000.meta" beforeDir="false" afterPath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-30000.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/智能算法/TensorFlow/回归/一维线性回归.py" beforeDir="false" afterPath="$PROJECT_DIR$/智能算法/TensorFlow/回归/一维线性回归.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/智能算法/回归/LWLR.py" beforeDir="false" afterPath="$PROJECT_DIR$/智能算法/回归/LWLR局部加权线性回归.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -176,8 +85,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/mnist_train.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="32" column="69" lean-forward="true" selection-start-line="32" selection-start-column="69" selection-end-line="32" selection-end-column="69" />
+            <state relative-caret-position="148">
+              <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
               <folding>
                 <element signature="e#24#33#0" expanded="true" />
               </folding>
@@ -542,7 +451,7 @@
       <workItem from="1547188525237" duration="1223000" />
       <workItem from="1547193758670" duration="4000" />
       <workItem from="1551958572275" duration="835000" />
-      <workItem from="1558270573357" duration="145000" />
+      <workItem from="1558270573357" duration="366000" />
     </task>
     <task id="LOCAL-00001" summary="1111">
       <created>1545239260184</created>
@@ -551,15 +460,21 @@
       <option name="project" value="LOCAL" />
       <updated>1545239260184</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1111">
+      <created>1558271017641</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1558271017641</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42595000" />
+    <option name="totallyTimeSpent" value="42816000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21908316" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -901,8 +816,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/mnist_train.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="32" column="69" lean-forward="true" selection-start-line="32" selection-start-column="69" selection-end-line="32" selection-end-column="69" />
+        <state relative-caret-position="148">
+          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
           <folding>
             <element signature="e#24#33#0" expanded="true" />
           </folding>
