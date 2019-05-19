@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9ad2641b-c7c4-40f9-a44a-7fba4dcb68c5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../BiRNN_wav_OCR/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BiRNN_wav_OCR/MFCC特征提取.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BiRNN_wav_OCR/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BiRNN_wav_OCR/showUI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BiRNN_wav_OCR/test001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BiRNN_wav_OCR/train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../car_license_OCR/GUI.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sklearn示例.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08163260 朱璋.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/鸢尾花PAC_SVC_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../智能算法/TensorFlow/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../智能算法/TensorFlow/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../智能算法/TensorFlow/MNIST/.idea/MNIST.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../智能算法/TensorFlow/MNIST/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../智能算法/TensorFlow/MNIST/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../智能算法/TensorFlow/MNIST/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../智能算法/TensorFlow/MNIST/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../智能算法/TensorFlow/MNIST/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../智能算法/TensorFlow/MNIST/卷积网络优化.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../智能算法/TensorFlow/RNN/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../智能算法/TensorFlow/RNN/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../智能算法/TensorFlow/RNN/echo模拟.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../智能算法/TensorFlow/RNN/退位减法器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../智能算法/TensorFlow/回归/多分类logistic回归.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../智能算法/TensorFlow/回归/线性logistic回归.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../智能算法/TensorFlow/图像处理/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../智能算法/TensorFlow/图像处理/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../智能算法/TensorFlow/图像处理/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../智能算法/TensorFlow/图像处理/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../智能算法/TensorFlow/图像处理/.idea/图像处理.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../智能算法/主成分分析/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../智能算法/主成分分析/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../智能算法/主成分分析/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../智能算法/主成分分析/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../智能算法/主成分分析/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../智能算法/主成分分析/.idea/主成分分析.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../智能算法/数据预处理/随机抽取指定数目样本.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../智能算法/TensorFlow/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../智能算法/TensorFlow/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/mnist_eval.py" beforeDir="false" afterPath="$PROJECT_DIR$/../智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/mnist_eval.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/mnist_inference.py" beforeDir="false" afterPath="$PROJECT_DIR$/../智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/mnist_inference.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/mnist_train.py" beforeDir="false" afterPath="$PROJECT_DIR$/../智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/mnist_train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/checkpoint" beforeDir="false" afterPath="$PROJECT_DIR$/../智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/checkpoint" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-26000.data-00000-of-00001" beforeDir="false" afterPath="$PROJECT_DIR$/../智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-26000.data-00000-of-00001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-26000.index" beforeDir="false" afterPath="$PROJECT_DIR$/../智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-26000.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-26000.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-26000.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-27000.data-00000-of-00001" beforeDir="false" afterPath="$PROJECT_DIR$/../智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-27000.data-00000-of-00001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-27000.index" beforeDir="false" afterPath="$PROJECT_DIR$/../智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-27000.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-27000.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-27000.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-28000.data-00000-of-00001" beforeDir="false" afterPath="$PROJECT_DIR$/../智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-28000.data-00000-of-00001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-28000.index" beforeDir="false" afterPath="$PROJECT_DIR$/../智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-28000.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-28000.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-28000.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-29000.data-00000-of-00001" beforeDir="false" afterPath="$PROJECT_DIR$/../智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-29000.data-00000-of-00001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-29000.index" beforeDir="false" afterPath="$PROJECT_DIR$/../智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-29000.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-29000.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-29000.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-30000.data-00000-of-00001" beforeDir="false" afterPath="$PROJECT_DIR$/../智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-30000.data-00000-of-00001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-30000.index" beforeDir="false" afterPath="$PROJECT_DIR$/../智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-30000.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-30000.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-30000.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../智能算法/TensorFlow/回归/一维线性回归.py" beforeDir="false" afterPath="$PROJECT_DIR$/../智能算法/TensorFlow/回归/一维线性回归.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/sklearn$PAC_SVC_tree.coverage" NAME="鸢尾花PAC_SVC_tree Coverage Results" MODIFIED="1554965437786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sklearn$PCA.coverage" NAME="PCA主成分分析 Coverage Results" MODIFIED="1554907387712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sklearn$08163260_.coverage" NAME="08163260 朱璋 Coverage Results" MODIFIED="1554966300847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/08163260 朱璋.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="24" column="4" lean-forward="true" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+              <folding>
+                <element signature="e#0#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/PCA主成分分析.py" />
+        <option value="$PROJECT_DIR$/鸢尾花PAC_SVC_tree.py" />
+        <option value="$PROJECT_DIR$/08163260 朱璋.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="528" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sklearn示例" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sklearn示例" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../智能算法" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Python projects\sklearn示例" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.08163260 朱璋">
+    <configuration name="08163260 朱璋" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="sklearn示例" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08163260 朱璋.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="鸢尾花PAC_SVC_tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="sklearn示例" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/鸢尾花PAC_SVC_tree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PCA主成分分析" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="sklearn示例" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\Python projects\sklearn示例\鸢尾花PAC_SVC_tree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.08163260 朱璋" />
+        <item itemvalue="Python.鸢尾花PAC_SVC_tree" />
+        <item itemvalue="Python.PCA主成分分析" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ad2641b-c7c4-40f9-a44a-7fba4dcb68c5" name="Default Changelist" comment="" />
+      <created>1554902819147</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554902819147</updated>
+      <workItem from="1554902821775" duration="6996000" />
+      <workItem from="1554909951353" duration="1071000" />
+      <workItem from="1554962196346" duration="5287000" />
+      <workItem from="1554967950177" duration="36000" />
+      <workItem from="1555325920261" duration="29000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13419000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22654584" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.27297297" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.48775056" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.25053304" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://D:/Program Files/Python36/Lib/site-packages/sklearn/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="323" column="8" selection-start-line="323" selection-start-column="8" selection-end-line="323" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/numpy/lib/index_tricks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="158" column="8" selection-start-line="158" selection-start-column="8" selection-end-line="158" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Python36/Lib/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="2855" column="4" selection-start-line="2855" selection-start-column="4" selection-end-line="2855" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Python36/Lib/site-packages/sklearn/svm/classes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="572" column="8" selection-start-line="572" selection-start-column="8" selection-end-line="572" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Python36/Lib/site-packages/sklearn/tree/export.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="73" column="4" selection-start-line="73" selection-start-column="4" selection-end-line="73" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Python36/Lib/site-packages/matplotlib/contour.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36810">
+          <caret line="1249" selection-start-line="1249" selection-end-line="1249" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Python36/Lib/site-packages/sklearn/tree/tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20760">
+          <caret line="720" column="26" selection-start-line="720" selection-start-column="17" selection-end-line="720" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Python36/Lib/site-packages/sklearn/linear_model/logistic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1711">
+          <caret line="1155" column="8" selection-start-line="1155" selection-start-column="8" selection-end-line="1155" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Python36/Lib/site-packages/sklearn/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/鸢尾花PAC_SVC_tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="43" lean-forward="true" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08163260 朱璋.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="24" column="4" lean-forward="true" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

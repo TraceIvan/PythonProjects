@@ -5,35 +5,104 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0578b7d-c09e-4d56-aec4-9fe35ae64cd1" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../BiRNN_wav_OCR/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BiRNN_wav_OCR/MFCC特征提取.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BiRNN_wav_OCR/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BiRNN_wav_OCR/showUI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BiRNN_wav_OCR/test001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BiRNN_wav_OCR/train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../car_license_OCR/GUI.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sklearn示例/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sklearn示例/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sklearn示例/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sklearn示例/.idea/sklearn示例.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sklearn示例/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sklearn示例/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sklearn示例/08163260 朱璋.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sklearn示例/鸢尾花PAC_SVC_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TensorFlow/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TensorFlow/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TensorFlow/MNIST/.idea/MNIST.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TensorFlow/MNIST/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TensorFlow/MNIST/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TensorFlow/MNIST/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TensorFlow/MNIST/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TensorFlow/MNIST/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TensorFlow/MNIST/卷积网络优化.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TensorFlow/RNN/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TensorFlow/RNN/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TensorFlow/RNN/echo模拟.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TensorFlow/RNN/退位减法器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TensorFlow/回归/多分类logistic回归.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TensorFlow/回归/线性logistic回归.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TensorFlow/图像处理/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TensorFlow/图像处理/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TensorFlow/图像处理/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TensorFlow/图像处理/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TensorFlow/图像处理/.idea/图像处理.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/主成分分析/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/主成分分析/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/主成分分析/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/主成分分析/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/主成分分析/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/主成分分析/.idea/主成分分析.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/决策树/CART回归树.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/决策树/CART模型树.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/决策树/bikeSpeedVsIq_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/决策树/bikeSpeedVsIq_train.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/决策树/ex0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/决策树/ex00.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/决策树/ex2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/决策树/ex2test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/决策树/exp2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/决策树/树回归预测及评价.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据预处理/随机抽取指定数目样本.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdaBoost/adaboostDS.py" beforeDir="false" afterPath="$PROJECT_DIR$/AdaBoost/adaboostDS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdaBoost/预测病马死亡率-AdaBoostDS.py" beforeDir="false" afterPath="$PROJECT_DIR$/AdaBoost/预测病马死亡率-AdaBoostDS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SVM支持向量机/svmPlatt_SMO.py" beforeDir="false" afterPath="$PROJECT_DIR$/SVM支持向量机/svmPlatt_SMO.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SVM支持向量机/svmPlatt_SMO_rtf核函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/SVM支持向量机/svmPlatt_SMO_rtf核函数.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TensorFlow/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TensorFlow/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/决策树/trees_ID3.py" beforeDir="false" afterPath="$PROJECT_DIR$/决策树/trees_ID3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../爬虫实战/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../爬虫实战/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TensorFlow/MNIST/LeNet-5模型——卷积网络/mnist_eval.py" beforeDir="false" afterPath="$PROJECT_DIR$/TensorFlow/MNIST/LeNet-5模型——卷积网络/mnist_eval.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TensorFlow/MNIST/LeNet-5模型——卷积网络/mnist_inference.py" beforeDir="false" afterPath="$PROJECT_DIR$/TensorFlow/MNIST/LeNet-5模型——卷积网络/mnist_inference.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TensorFlow/MNIST/LeNet-5模型——卷积网络/mnist_train.py" beforeDir="false" afterPath="$PROJECT_DIR$/TensorFlow/MNIST/LeNet-5模型——卷积网络/mnist_train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/checkpoint" beforeDir="false" afterPath="$PROJECT_DIR$/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/checkpoint" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-26000.data-00000-of-00001" beforeDir="false" afterPath="$PROJECT_DIR$/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-26000.data-00000-of-00001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-26000.index" beforeDir="false" afterPath="$PROJECT_DIR$/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-26000.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-26000.meta" beforeDir="false" afterPath="$PROJECT_DIR$/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-26000.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-27000.data-00000-of-00001" beforeDir="false" afterPath="$PROJECT_DIR$/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-27000.data-00000-of-00001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-27000.index" beforeDir="false" afterPath="$PROJECT_DIR$/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-27000.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-27000.meta" beforeDir="false" afterPath="$PROJECT_DIR$/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-27000.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-28000.data-00000-of-00001" beforeDir="false" afterPath="$PROJECT_DIR$/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-28000.data-00000-of-00001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-28000.index" beforeDir="false" afterPath="$PROJECT_DIR$/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-28000.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-28000.meta" beforeDir="false" afterPath="$PROJECT_DIR$/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-28000.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-29000.data-00000-of-00001" beforeDir="false" afterPath="$PROJECT_DIR$/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-29000.data-00000-of-00001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-29000.index" beforeDir="false" afterPath="$PROJECT_DIR$/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-29000.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-29000.meta" beforeDir="false" afterPath="$PROJECT_DIR$/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-29000.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-30000.data-00000-of-00001" beforeDir="false" afterPath="$PROJECT_DIR$/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-30000.data-00000-of-00001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-30000.index" beforeDir="false" afterPath="$PROJECT_DIR$/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-30000.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-30000.meta" beforeDir="false" afterPath="$PROJECT_DIR$/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-30000.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TensorFlow/回归/一维线性回归.py" beforeDir="false" afterPath="$PROJECT_DIR$/TensorFlow/回归/一维线性回归.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/回归/LWLR.py" beforeDir="false" afterPath="$PROJECT_DIR$/回归/LWLR局部加权线性回归.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/$CART_test.coverage" NAME="CART_test Coverage Results" MODIFIED="1555336753297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/决策树" />
     <SUITE FILE_PATH="coverage/$PCA_2.coverage" NAME="PCA_2 Coverage Results" MODIFIED="1520321219098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/$trees.coverage" NAME="trees Coverage Results" MODIFIED="1521340215011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/决策树" />
-    <SUITE FILE_PATH="coverage/$.coverage" NAME="预测病马死亡率 Coverage Results" MODIFIED="1521792369625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Logistic回归" />
-    <SUITE FILE_PATH="coverage/$Bayes_.coverage" NAME="Bayes_个人广告获取区域倾向 Coverage Results" MODIFIED="1521452030257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/朴素贝叶斯" />
-    <SUITE FILE_PATH="coverage/$logRegres_bin.coverage" NAME="logRegres_bin Coverage Results" MODIFIED="1522733478754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Logistic回归" />
-    <SUITE FILE_PATH="coverage/$svmPlatt_SMO.coverage" NAME="svmPlatt_SMO Coverage Results" MODIFIED="1523274550061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SVM支持向量机" />
-    <SUITE FILE_PATH="coverage/$PCA.coverage" NAME="PCA Coverage Results" MODIFIED="1520321318569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/$logRegres.coverage" NAME="logRegres Coverage Results" MODIFIED="1521464045329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Logistic回归" />
     <SUITE FILE_PATH="coverage/$_AdaBoostDS.coverage" NAME="预测病马死亡率-AdaBoostDS Coverage Results" MODIFIED="1522818878472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AdaBoost" />
-    <SUITE FILE_PATH="coverage/$logRegres_multi.coverage" NAME="logRegres_multi Coverage Results" MODIFIED="1522826447053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Logistic回归" />
-    <SUITE FILE_PATH="coverage/$trees_ID3.coverage" NAME="trees_ID3 Coverage Results" MODIFIED="1521344422158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/决策树" />
+    <SUITE FILE_PATH="coverage/$logRegres.coverage" NAME="logRegres Coverage Results" MODIFIED="1521464045329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Logistic回归" />
+    <SUITE FILE_PATH="coverage/$trees.coverage" NAME="trees Coverage Results" MODIFIED="1521340215011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/决策树" />
     <SUITE FILE_PATH="coverage/$kNN.coverage" NAME="kNN Coverage Results" MODIFIED="1522819835822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/k-邻近" />
+    <SUITE FILE_PATH="coverage/$.coverage" NAME="树回归预测及评价 Coverage Results" MODIFIED="1555340652091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/决策树" />
+    <SUITE FILE_PATH="coverage/$PCA.coverage" NAME="PCA Coverage Results" MODIFIED="1520321318569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$logRegres_multi.coverage" NAME="logRegres_multi Coverage Results" MODIFIED="1522826447053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Logistic回归" />
+    <SUITE FILE_PATH="coverage/$svmPlatt_SMO.coverage" NAME="svmPlatt_SMO Coverage Results" MODIFIED="1523274550061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SVM支持向量机" />
+    <SUITE FILE_PATH="coverage/$Bayes_.coverage" NAME="Bayes_个人广告获取区域倾向 Coverage Results" MODIFIED="1521452030257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/朴素贝叶斯" />
+    <SUITE FILE_PATH="coverage/$trees_ID3.coverage" NAME="trees_ID3 Coverage Results" MODIFIED="1521344422158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/决策树" />
+    <SUITE FILE_PATH="coverage/$logRegres_bin.coverage" NAME="logRegres_bin Coverage Results" MODIFIED="1522733478754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Logistic回归" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -54,62 +123,60 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="trees.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/决策树/iris/trees.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/决策树/CART回归树.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5310">
-              <caret line="183" column="4" selection-start-line="183" selection-start-column="4" selection-end-line="183" selection-end-column="70" />
+            <state>
+              <caret line="94" selection-start-line="94" selection-end-line="94" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/决策树/CART模型树.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="80" column="17" selection-start-line="80" selection-start-column="17" selection-end-line="80" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/决策树/树回归预测及评价.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="57" column="22" selection-start-line="57" selection-start-column="22" selection-end-line="57" selection-end-column="22" />
               <folding>
-                <element signature="e#0#11#0" expanded="true" />
+                <element signature="e#0#26#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LR_iris.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Logistic回归/LR_iris.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/关联规则/apriori.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/主成分分析/PCA.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+            <state>
+              <caret line="39" selection-start-line="39" selection-end-line="39" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="logRegres_bin.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Logistic回归/logRegres_bin.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1320">
-              <caret line="46" column="27" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="27" />
-            </state>
-          </provider>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/回归/树回归/CART回归树.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="svmPlatt_SMO.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SVM支持向量机/svmPlatt_SMO.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/回归/岭回归.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6840">
-              <caret line="231" column="20" selection-start-line="231" selection-start-column="20" selection-end-line="231" selection-end-column="20" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SVM支持向量机/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7260">
-              <caret line="244" selection-start-line="244" selection-end-line="244" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MySVM.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SVM支持向量机/MySVM.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3000">
-              <caret line="142" column="35" selection-start-line="142" selection-start-column="35" selection-end-line="142" selection-end-column="35" />
+            <state relative-caret-position="52">
+              <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -117,41 +184,37 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="multiarray.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/830134243/numpy/core/multiarray.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/回归/前向逐步回归.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="26400">
-              <caret line="880" column="36" selection-start-line="880" selection-start-column="28" selection-end-line="880" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="svmPlatt_SMO_rtf核函数.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SVM支持向量机/svmPlatt_SMO_rtf核函数.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+            <state>
               <folding>
-                <element signature="e#0#29#0" expanded="true" />
+                <element signature="e#0#18#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="svmMLiA-简化SMO.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SVM支持向量机/svmMLiA-简化SMO.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/回归/OLS线性回归.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5190">
-              <caret line="176" column="64" selection-start-line="176" selection-start-column="64" selection-end-line="176" selection-end-column="64" />
+            <state>
+              <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="kNN.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/k-邻近/kNN.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/回归/LWLR局部加权线性回归.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1380">
-              <caret line="48" selection-start-line="48" selection-end-line="57" selection-end-column="45" />
+            <state>
+              <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -172,7 +235,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
@@ -210,14 +273,12 @@
         <option value="$PROJECT_DIR$/SVM支持向量机/test.py" />
         <option value="$PROJECT_DIR$/SVM支持向量机/svmPlatt_SMO.py" />
         <option value="$PROJECT_DIR$/SVM支持向量机/MySVM.py" />
+        <option value="$PROJECT_DIR$/决策树/CART_test.py" />
+        <option value="$PROJECT_DIR$/决策树/CART模型树.py" />
+        <option value="$PROJECT_DIR$/决策树/CART回归树.py" />
+        <option value="$PROJECT_DIR$/决策树/树回归预测及评价.py" />
       </list>
     </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-240" />
@@ -243,28 +304,7 @@
             <path>
               <item name="智能算法" type="b2602c69:ProjectViewProjectNode" />
               <item name="智能算法" type="462c0819:PsiDirectoryNode" />
-              <item name="k-邻近" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="智能算法" type="b2602c69:ProjectViewProjectNode" />
-              <item name="智能算法" type="462c0819:PsiDirectoryNode" />
-              <item name="Logistic回归" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="智能算法" type="b2602c69:ProjectViewProjectNode" />
-              <item name="智能算法" type="462c0819:PsiDirectoryNode" />
-              <item name="SVM支持向量机" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="智能算法" type="b2602c69:ProjectViewProjectNode" />
-              <item name="智能算法" type="462c0819:PsiDirectoryNode" />
-              <item name="决策树" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="智能算法" type="b2602c69:ProjectViewProjectNode" />
-              <item name="智能算法" type="462c0819:PsiDirectoryNode" />
-              <item name="决策树" type="462c0819:PsiDirectoryNode" />
-              <item name="iris" type="462c0819:PsiDirectoryNode" />
+              <item name="TensorFlow" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -274,18 +314,23 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="parse&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="PyScientificConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Mercurial" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Python\智能算法\主成分分析" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python projects\智能算法\决策树" />
       <recent name="D:\Python\智能算法\Logistic回归" />
       <recent name="D:\Python\智能算法\决策树" />
       <recent name="D:\Python\智能算法\AdaBoost" />
@@ -304,6 +349,72 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.MySVM">
+    <configuration name="树回归预测及评价" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="智能算法" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/决策树" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/决策树/树回归预测及评价.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CART模型树" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="智能算法" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/决策树" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/决策树/CART模型树.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CART_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="智能算法" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/决策树" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\Python projects\智能算法\决策树\CART回归树.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="MySVM" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="智能算法" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -322,6 +433,28 @@
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="岭回归" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="智能算法" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/回归" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/回归/岭回归.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="智能算法" />
@@ -341,135 +474,22 @@
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="adaboostDS" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="智能算法" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AdaBoost" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AdaBoost/adaboostDS.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="logRegres_multi" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="智能算法" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Logistic回归" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Logistic回归/logRegres_multi.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="svmMLiA-简化SMO" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="智能算法" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SVM支持向量机" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SVM支持向量机/svmMLiA-简化SMO.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="svmPlatt_SMO" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="智能算法" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SVM支持向量机" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SVM支持向量机/svmPlatt_SMO.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="智能算法" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SVM支持向量机" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SVM支持向量机/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="trees" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="智能算法" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/决策树/iris" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/决策树/iris/trees.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.logRegres_multi" />
-      <item itemvalue="Python.svmPlatt_SMO" />
-      <item itemvalue="Python.svmMLiA-简化SMO" />
-      <item itemvalue="Python.test" />
       <item itemvalue="Python.MySVM" />
+      <item itemvalue="Python.CART_test" />
+      <item itemvalue="Python.CART模型树" />
+      <item itemvalue="Python.树回归预测及评价" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.树回归预测及评价" />
+        <item itemvalue="Python.CART模型树" />
+        <item itemvalue="Python.CART_test" />
         <item itemvalue="Python.MySVM" />
-        <item itemvalue="Python.svmPlatt_SMO" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.svmMLiA-简化SMO" />
-        <item itemvalue="Python.logRegres_multi" />
       </list>
     </recent_temporary>
   </component>
@@ -483,8 +503,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1520252110803</updated>
+      <workItem from="1555325973676" duration="2685000" />
+      <workItem from="1555336073252" duration="5230000" />
+      <workItem from="1555341452695" duration="1457000" />
+      <workItem from="1557899485609" duration="1247000" />
+      <workItem from="1558266367987" duration="2536000" />
     </task>
     <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13155000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -497,39 +525,35 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4968017" visible="true" weight="0.22441365" />
+      <window_info id="Structure" order="1" sideWeight="0.5010101" side_tool="true" weight="0.117803834" />
+      <window_info id="Favorites" order="2" sideWeight="0.50319827" side_tool="true" weight="0.12686567" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.32552692" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.42427617" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32885906" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50053304" side_tool="true" weight="0.47480404" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.32552692" />
-      <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="Python Console" order="8" weight="0.30872482" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32997763" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4968017" visible="true" weight="0.13326226" />
-      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="5" weight="0.32995737" />
-      <window_info anchor="right" id="SciView" order="4" weight="0.26545843" />
-      <window_info id="Structure" order="1" sideWeight="0.5010101" side_tool="true" weight="0.117803834" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.38297874" />
-      <window_info id="Favorites" order="2" sideWeight="0.50319827" side_tool="true" weight="0.12686567" />
-      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="12" weight="0.32922733" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Python Console" order="9" visible="true" weight="0.23210412" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32997763" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32922733" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="6" side_tool="true" weight="0.3336887" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="3" side_tool="true" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.26545843" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32995737" />
+      <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="6" side_tool="true" visible="true" weight="0.3336887" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="新增文件" />
@@ -559,107 +583,9 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="60" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://D:/Program Files/Python36/Lib/site-packages/numpy/lib/shape_base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24930">
-          <caret line="843" column="4" selection-start-line="843" selection-start-column="4" selection-end-line="843" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/决策树.py" />
-    <entry file="file://D:/编程资料/人工智能/机器学习实战 Peter Harrington  源代码+数据集/machinelearninginaction/Ch03/trees.py" />
-    <entry file="file://D:/编程资料/人工智能/机器学习实战 Peter Harrington  源代码+数据集/machinelearninginaction/Ch03/treePlotter.py" />
-    <entry file="file://$PROJECT_DIR$/朴素贝叶斯/Bayes_简单侮辱性言论分类.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/朴素贝叶斯/Bayes_个人广告获取区域倾向.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="36" column="12" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Program Files/Python36/Lib/site-packages/numpy/core/fromnumeric.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="49170">
-          <caret line="1650" selection-start-line="1650" selection-end-line="1650" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Program Files/Python36/Lib/site-packages/numpy/matrixlib/defmatrix.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="283" selection-start-line="283" selection-end-line="283" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/朴素贝叶斯/Bayes_垃圾邮件分类.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="21" column="21" selection-start-line="8" selection-end-line="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/主成分分析/PCA.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/主成分分析/PCA_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Program Files/Python36/Lib/site-packages/scipy/sparse/linalg/isolve/tests/test_iterative.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Program Files/Python36/Lib/site-packages/scipy/signal/ltisys.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="1321" column="13" selection-start-line="1321" selection-start-column="13" selection-end-line="1321" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="1663" selection-start-line="1663" selection-end-line="1663" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Program Files/Python36/Lib/site-packages/matplotlib/axes/_base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="241" selection-start-line="241" selection-end-line="241" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/编程资料/人工智能/机器学习实战 Peter Harrington  源代码+数据集/machinelearninginaction/Ch06/EXTRAS/plotSupportVectors.py" />
     <entry file="file://D:/编程资料/人工智能/机器学习实战 Peter Harrington  源代码+数据集/machinelearninginaction/Ch06/EXTRAS/plotRBF.py" />
     <entry file="file://D:/编程资料/人工智能/机器学习实战 Peter Harrington  源代码+数据集/machinelearninginaction/Ch06/EXTRAS/notLinSeperable.py" />
@@ -711,13 +637,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plotroc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/plotroc.py" />
     <entry file="file://$PROJECT_DIR$/Logistic回归/digits/testDigits/0_11.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -739,13 +659,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/数据集/鸢尾花数据iris/iris.data">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="27" lean-forward="true" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://D:/数据集/鸢尾花数据iris/iris.data" />
     <entry file="file://$PROJECT_DIR$/决策树/lenses.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -808,13 +722,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/k-邻近/kNN.py">
+    <entry file="file://$PROJECT_DIR$/SVM支持向量机/testSet.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1380">
-          <caret line="48" selection-start-line="48" selection-end-line="57" selection-end-column="45" />
+        <state relative-caret-position="300">
+          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/830134243/numpy/core/multiarray.py" />
     <entry file="file://$PROJECT_DIR$/决策树/iris/trees.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5310">
@@ -827,7 +742,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Logistic回归/LR_iris.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
+        <state>
           <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
         </state>
       </provider>
@@ -836,13 +751,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1320">
           <caret line="46" column="27" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SVM支持向量机/svmMLiA-简化SMO.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5190">
-          <caret line="176" column="64" selection-start-line="176" selection-start-column="64" selection-end-line="176" selection-end-column="64" />
         </state>
       </provider>
     </entry>
@@ -856,6 +764,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/SVM支持向量机/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7260">
+          <caret line="244" selection-start-line="244" selection-end-line="244" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SVM支持向量机/svmMLiA-简化SMO.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5190">
+          <caret line="176" column="64" selection-start-line="176" selection-start-column="64" selection-end-line="176" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/k-邻近/kNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1380">
+          <caret line="48" selection-start-line="48" selection-end-line="57" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SVM支持向量机/MySVM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="789">
+          <caret line="142" column="35" selection-start-line="142" selection-start-column="35" selection-end-line="142" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/决策树/ex2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/决策树/ex00.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/SVM支持向量机/svmPlatt_SMO_rtf核函数.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -866,31 +811,92 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SVM支持向量机/test.py">
+    <entry file="file://$PROJECT_DIR$/决策树/ex2test.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7260">
-          <caret line="244" selection-start-line="244" selection-end-line="244" />
+        <state relative-caret-position="-270" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/决策树/exp2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SVM支持向量机/testSet.txt">
+    <entry file="file://$PROJECT_DIR$/决策树/bikeSpeedVsIq_test.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/830134243/numpy/core/multiarray.py" />
+    <entry file="file://$PROJECT_DIR$/决策树/CART回归树.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        <state>
+          <caret line="94" selection-start-line="94" selection-end-line="94" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/830134243/numpy/core/multiarray.py">
+    <entry file="file://$PROJECT_DIR$/决策树/CART模型树.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26400">
-          <caret line="880" column="36" selection-start-line="880" selection-start-column="28" selection-end-line="880" selection-end-column="36" />
+        <state>
+          <caret line="80" column="17" selection-start-line="80" selection-start-column="17" selection-end-line="80" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SVM支持向量机/MySVM.py">
+    <entry file="file://$PROJECT_DIR$/决策树/树回归预测及评价.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3000">
-          <caret line="142" column="35" selection-start-line="142" selection-start-column="35" selection-end-line="142" selection-end-column="35" />
+        <state>
+          <caret line="57" column="22" selection-start-line="57" selection-start-column="22" selection-end-line="57" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/关联规则/apriori.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/主成分分析/PCA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/回归/树回归/CART回归树.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/回归/前向逐步回归.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/回归/OLS线性回归.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/回归/LWLR局部加权线性回归.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/回归/岭回归.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>

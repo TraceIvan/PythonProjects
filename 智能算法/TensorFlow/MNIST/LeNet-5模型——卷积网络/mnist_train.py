@@ -36,15 +36,12 @@ def train(mnist):
     global_step=tf.Variable(0,trainable=False)
 
     #定义损失函数、学习率、滑动平均操作以及训练过程
-    variable_averages=tf.train.ExponentialMovingAverage(
-        MOVING_AVERAGE_DECAY,global_step
-    )
-    variables_averages_op=variable_averages.apply(
-        tf.trainable_variables()
-    )
+    variable_averages=tf.train.ExponentialMovingAverage(MOVING_AVERAGE_DECAY,global_step)
+    variables_averages_op=variable_averages.apply(tf.trainable_variables())
     cross_entropy=tf.nn.sparse_softmax_cross_entropy_with_logits(logits=y,labels=tf.argmax(y_,1))
     cross_entropy_mean=tf.reduce_mean(cross_entropy)
     loss=cross_entropy_mean+tf.add_n(tf.get_collection('losses'))
+    tf.summary.scalar('loss_function', loss)  # 将损失以标量形式显示
     learning_rate=tf.train.exponential_decay(
         LEARNING_RATE_BASE,
         global_step,
@@ -60,7 +57,9 @@ def train(mnist):
 
     with tf.Session() as sess:
         tf.global_variables_initializer().run()
-
+        merged_summary_op = tf.summary.merge_all()  # 合并所有summary
+        # 创建summary_writer，用于写文件
+        summary_writer = tf.summary.FileWriter('log/LeNet5_with_summaries', sess.graph)
         #在训练过程中不再测试模型在验证数据上的表现
         for i in range(1,TRAINING_STEPS+1):
             xs,ys=mnist.train.next_batch(BATCH_SIZE)
@@ -69,6 +68,9 @@ def train(mnist):
                                        mnist_inference.IMAGE_SIZE,
                                        mnist_inference.NUM_CHANNELS))
             _,loss_value,step=sess.run([train_op,loss,global_step],feed_dict={x:reshaped_xs,y_:ys})
+            # 生成summary
+            summary_str = sess.run(merged_summary_op, {x:reshaped_xs,y_:ys})
+            summary_writer.add_summary(summary_str, i)  # 将summary写入文件
             # 每1000轮保存一次模型
             if i % 1000 == 0:
                 # 输出当前的训练情况。此处只输出模型在当前batch上的损失函数大小

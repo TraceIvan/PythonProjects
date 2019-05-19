@@ -28,7 +28,6 @@ Y=tf.placeholder("float")
 #模型参数
 W=tf.Variable(tf.random_normal([1]),name="weight")
 b=tf.Variable(tf.zeros([1]),name="bias")
-
 #前向结构
 z=tf.multiply(X,W)+b#点乘
 tf.summary.histogram('z',z) #将预测值以直方图形式显示
@@ -51,12 +50,9 @@ savedir="log/"#生成模型的路径
 #启动session
 with tf.Session() as sess:
     sess.run(init)
-
     merged_summary_op=tf.summary.merge_all()#合并所有summary
     #创建summary_writer，用于写文件
     summary_writer=tf.summary.FileWriter('log/linermodel_with_summaries',sess.graph)
-
-
     #向模型输入数据
     for epoch in range(training_epochs):
         for(x,y) in zip(train_X,train_Y):

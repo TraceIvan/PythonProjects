@@ -1,31 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="693c13b0-8a05-4aec-9b7a-1332d5703648" name="Default" comment="" />
+    <list default="true" id="693c13b0-8a05-4aec-9b7a-1332d5703648" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../../BiRNN_wav_OCR/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BiRNN_wav_OCR/MFCC特征提取.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BiRNN_wav_OCR/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BiRNN_wav_OCR/showUI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BiRNN_wav_OCR/train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../car_license_OCR/GUI.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MNIST/.idea/MNIST.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MNIST/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MNIST/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MNIST/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MNIST/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MNIST/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MNIST/卷积网络优化.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RNN/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RNN/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RNN/echo模拟.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RNN/退位减法器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/回归/多分类logistic回归.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/回归/线性logistic回归.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/图像处理/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/图像处理/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/图像处理/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/图像处理/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/图像处理/.idea/图像处理.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数据预处理/随机抽取指定数目样本.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MNIST/LeNet-5模型——卷积网络/mnist_eval.py" beforeDir="false" afterPath="$PROJECT_DIR$/MNIST/LeNet-5模型——卷积网络/mnist_eval.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MNIST/LeNet-5模型——卷积网络/mnist_inference.py" beforeDir="false" afterPath="$PROJECT_DIR$/MNIST/LeNet-5模型——卷积网络/mnist_inference.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MNIST/LeNet-5模型——卷积网络/mnist_train.py" beforeDir="false" afterPath="$PROJECT_DIR$/MNIST/LeNet-5模型——卷积网络/mnist_train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MNIST/LeNet-5模型——卷积网络/model/checkpoint" beforeDir="false" afterPath="$PROJECT_DIR$/MNIST/LeNet-5模型——卷积网络/model/checkpoint" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-26000.data-00000-of-00001" beforeDir="false" afterPath="$PROJECT_DIR$/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-26000.data-00000-of-00001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-26000.index" beforeDir="false" afterPath="$PROJECT_DIR$/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-26000.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-26000.meta" beforeDir="false" afterPath="$PROJECT_DIR$/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-26000.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-27000.data-00000-of-00001" beforeDir="false" afterPath="$PROJECT_DIR$/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-27000.data-00000-of-00001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-27000.index" beforeDir="false" afterPath="$PROJECT_DIR$/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-27000.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-27000.meta" beforeDir="false" afterPath="$PROJECT_DIR$/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-27000.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-28000.data-00000-of-00001" beforeDir="false" afterPath="$PROJECT_DIR$/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-28000.data-00000-of-00001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-28000.index" beforeDir="false" afterPath="$PROJECT_DIR$/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-28000.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-28000.meta" beforeDir="false" afterPath="$PROJECT_DIR$/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-28000.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-29000.data-00000-of-00001" beforeDir="false" afterPath="$PROJECT_DIR$/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-29000.data-00000-of-00001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-29000.index" beforeDir="false" afterPath="$PROJECT_DIR$/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-29000.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-29000.meta" beforeDir="false" afterPath="$PROJECT_DIR$/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-29000.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-30000.data-00000-of-00001" beforeDir="false" afterPath="$PROJECT_DIR$/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-30000.data-00000-of-00001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-30000.index" beforeDir="false" afterPath="$PROJECT_DIR$/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-30000.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-30000.meta" beforeDir="false" afterPath="$PROJECT_DIR$/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-30000.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/回归/一维线性回归.py" beforeDir="false" afterPath="$PROJECT_DIR$/回归/一维线性回归.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/TensorFlow$Test_TensorFlow.coverage" NAME="Test_TensorFlow Coverage Results" MODIFIED="1520729432353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/TensorFlow$MNIST_.coverage" NAME="MNIST训练神经网络_改进 Coverage Results" MODIFIED="1520569059018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MNIST" />
-    <SUITE FILE_PATH="coverage/TensorFlow$.coverage" NAME="图像处理完整样例 Coverage Results" MODIFIED="1520696093696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/图像处理" />
-    <SUITE FILE_PATH="coverage/TensorFlow$_3_.coverage" NAME="输入文件队列_3_组合训练数据 Coverage Results" MODIFIED="1521203192330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/多线程输入" />
-    <SUITE FILE_PATH="coverage/TensorFlow$Inception_v3.coverage" NAME="Inception-v3模型迁移学习 Coverage Results" MODIFIED="1520613280432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Inception-v3" />
-    <SUITE FILE_PATH="coverage/TensorFlow$tensorFlow.coverage" NAME="tensorFlow官网示例 Coverage Results" MODIFIED="1520491602749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/TensorFlow$_2_.coverage" NAME="输入文件队列_2_获取文件队列 Coverage Results" MODIFIED="1521201889651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/多线程输入" />
-    <SUITE FILE_PATH="coverage/TensorFlow$mnist_eval__1_.coverage" NAME="mnist_eval (1) Coverage Results" MODIFIED="1520596316743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MNIST/TensorFlow最佳实践——全连接网络" />
-    <SUITE FILE_PATH="coverage/TensorFlow$mnist_eval__2_.coverage" NAME="mnist_eval (2) Coverage Results" MODIFIED="1520597946723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MNIST/LeNet-5模型——卷积网络" />
-    <SUITE FILE_PATH="coverage/TensorFlow$TensorFlow.coverage" NAME="TensorFlow测试样例 Coverage Results" MODIFIED="1520586591967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/TensorFlow$mnist_eval.coverage" NAME="mnist_eval Coverage Results" MODIFIED="1520579449033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MNIST/TensorFlow最佳实践" />
+    <SUITE FILE_PATH="coverage/TensorFlow$mnist_train__1_.coverage" NAME="mnist_train (1) Coverage Results" MODIFIED="1520597311985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MNIST/LeNet-5模型——卷积网络" />
     <SUITE FILE_PATH="coverage/TensorFlow$TFRecord_.coverage" NAME="TFRecord样例_读取 Coverage Results" MODIFIED="1521198838807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MNIST" />
     <SUITE FILE_PATH="coverage/TensorFlow$mnist_train.coverage" NAME="mnist_train Coverage Results" MODIFIED="1520579445312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MNIST/TensorFlow最佳实践" />
-    <SUITE FILE_PATH="coverage/TensorFlow$mnist_train__1_.coverage" NAME="mnist_train (1) Coverage Results" MODIFIED="1520597311985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MNIST/LeNet-5模型——卷积网络" />
-    <SUITE FILE_PATH="coverage/TensorFlow$mnist_train__2_.coverage" NAME="mnist_train (2) Coverage Results" MODIFIED="1520596187117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MNIST/TensorFlow最佳实践——全连接网络" />
+    <SUITE FILE_PATH="coverage/TensorFlow$.coverage" NAME="图像处理完整样例 Coverage Results" MODIFIED="1520696093696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/图像处理" />
+    <SUITE FILE_PATH="coverage/TensorFlow$tensorFlow.coverage" NAME="tensorFlow官网示例 Coverage Results" MODIFIED="1520491602749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TensorFlow$MNIST_.coverage" NAME="MNIST训练神经网络_改进 Coverage Results" MODIFIED="1520569059018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MNIST" />
+    <SUITE FILE_PATH="coverage/TensorFlow$Test_TensorFlow.coverage" NAME="Test_TensorFlow Coverage Results" MODIFIED="1520729432353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TensorFlow$mnist_eval__1_.coverage" NAME="mnist_eval (1) Coverage Results" MODIFIED="1520596316743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MNIST/TensorFlow最佳实践——全连接网络" />
+    <SUITE FILE_PATH="coverage/TensorFlow$Inception_v3.coverage" NAME="Inception-v3模型迁移学习 Coverage Results" MODIFIED="1520613280432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Inception-v3" />
     <SUITE FILE_PATH="coverage/TensorFlow$MNIST.coverage" NAME="MNIST训练神经网络 Coverage Results" MODIFIED="1520564098097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MNIST" />
+    <SUITE FILE_PATH="coverage/TensorFlow$_2_.coverage" NAME="输入文件队列_2_获取文件队列 Coverage Results" MODIFIED="1521201889651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/多线程输入" />
+    <SUITE FILE_PATH="coverage/TensorFlow$mnist_eval__2_.coverage" NAME="mnist_eval (2) Coverage Results" MODIFIED="1520597946723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MNIST/LeNet-5模型——卷积网络" />
+    <SUITE FILE_PATH="coverage/TensorFlow$_3_.coverage" NAME="输入文件队列_3_组合训练数据 Coverage Results" MODIFIED="1521203192330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/多线程输入" />
+    <SUITE FILE_PATH="coverage/TensorFlow$TensorFlow.coverage" NAME="TensorFlow测试样例 Coverage Results" MODIFIED="1520586591967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TensorFlow$mnist_train__2_.coverage" NAME="mnist_train (2) Coverage Results" MODIFIED="1520596187117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MNIST/TensorFlow最佳实践——全连接网络" />
+    <SUITE FILE_PATH="coverage/TensorFlow$mnist_eval.coverage" NAME="mnist_eval Coverage Results" MODIFIED="1520579449033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MNIST/TensorFlow最佳实践" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -43,98 +93,44 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="多线程队列操作.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/多线程输入/多线程队列操作.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MNIST/卷积网络优化.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="输入文件队列_1_生成样例数据.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/多线程输入/输入文件队列_1_生成样例数据.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="图像处理完整样例.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/图像处理/图像处理完整样例.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="23" column="42" selection-start-line="5" selection-end-line="23" selection-end-column="42" />
+            <state relative-caret-position="2220">
+              <caret line="79" column="27" selection-start-line="79" selection-start-column="27" selection-end-line="79" selection-end-column="27" />
               <folding>
-                <element signature="e#0#23#0" expanded="true" />
+                <element signature="e#0#9#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="输入文件队列_2_获取文件队列.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/多线程输入/输入文件队列_2_获取文件队列.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="输入处理框架.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/输入处理框架.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="86" column="9" selection-start-line="86" selection-start-column="9" selection-end-line="86" selection-end-column="9" />
-              <folding>
-                <element signature="e#0#23#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MNIST训练神经网络_改进.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MNIST/MNIST训练神经网络_改进.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1496">
-              <caret line="94" lean-forward="true" selection-start-line="94" selection-end-line="94" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="输入文件队列_3_组合训练数据.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/多线程输入/输入文件队列_3_组合训练数据.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="664">
-              <caret line="43" column="23" lean-forward="true" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mnist_train.py" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MNIST/LeNet-5模型——卷积网络/mnist_train.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-746">
-              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+            <state relative-caret-position="900">
+              <caret line="37" column="15" selection-start-line="37" selection-start-column="15" selection-end-line="37" selection-end-column="15" />
+              <folding>
+                <element signature="e#24#33#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mnist_inference.py" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MNIST/LeNet-5模型——卷积网络/mnist_inference.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+            <state relative-caret-position="2760">
+              <caret line="92" column="35" selection-start-line="92" selection-start-column="35" selection-end-line="92" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mnist_eval.py" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MNIST/LeNet-5模型——卷积网络/mnist_eval.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-26">
-              <caret line="47" column="38" selection-start-line="47" selection-start-column="38" selection-end-line="47" selection-end-column="38" />
+            <state relative-caret-position="570">
+              <caret line="110" column="24" lean-forward="true" selection-start-line="110" selection-start-column="24" selection-end-line="110" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -152,6 +148,9 @@
     <findStrings>
       <find>string_input_producer</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -190,18 +189,13 @@
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="418" />
     <option name="y" value="78" />
     <option name="width" value="1400" />
     <option name="height" value="1017" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -241,7 +235,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="settings.editor.selected.configurable" value="PyScientificConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -279,6 +273,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="TFRecord样例_读取" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TensorFlow" />
@@ -298,6 +295,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="Test_TensorFlow" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TensorFlow" />
@@ -317,6 +317,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="图像处理完整样例" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -450,6 +453,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="输入文件队列_3_组合训练数据" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TensorFlow" />
@@ -469,11 +475,14 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Python.TFRecord样例_读取" />
-      <item itemvalue="Python.图像编码处理" />
       <item itemvalue="Python.Test_TensorFlow" />
+      <item itemvalue="Python.图像编码处理" />
       <item itemvalue="Python.输入文件队列_2_获取文件队列" />
       <item itemvalue="Python.输入文件队列_3_组合训练数据" />
     </list>
@@ -497,8 +506,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1520433848255</updated>
+      <workItem from="1547271608340" duration="2013000" />
+      <workItem from="1547277061239" duration="593000" />
+      <workItem from="1547300197655" duration="49000" />
+      <workItem from="1551774447573" duration="721000" />
+      <workItem from="1551780119280" duration="677000" />
+      <workItem from="1551783639873" duration="576000" />
+      <workItem from="1551937969589" duration="43000" />
+      <workItem from="1551939561886" duration="6962000" />
+      <workItem from="1551969385400" duration="186000" />
+      <workItem from="1552010361632" duration="1077000" />
+      <workItem from="1552488566143" duration="606000" />
+      <workItem from="1553763726024" duration="25000" />
     </task>
     <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13528000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -513,40 +537,34 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32924107" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.1484375" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32924107" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32924107" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21908316" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="3" weight="0.32995737" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.25586355" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2489339" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.42857143" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.1484375" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.42857143" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32924107" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32924107" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.32924107" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="3" visible="true" weight="0.06609808" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.25586355" />
+      <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="4" side_tool="true" visible="true" weight="0.12100213" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32995737" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="8" />
-    </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
         <watch expression="mnist" />
@@ -554,91 +572,11 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tensorFlow官网示例.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/二分类_神经网络.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test_TensorFlow.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MNIST/MNIST训练神经网络.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TensorFlow测试样例.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorFlow官网示例.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test_TensorFlow.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/二分类_神经网络.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TensorFlow测试样例.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorFlow官网示例.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TensorFlow测试样例.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/MNIST训练神经网络.py" />
     <entry file="file://$PROJECT_DIR$/二分类_神经网络.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="840">
           <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorFlow官网示例.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -649,13 +587,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="47" selection-start-line="47" selection-end-line="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TensorFlow测试样例.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -729,9 +660,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test_TensorFlow.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://D:/Program Files/Python36/Lib/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="470">
@@ -759,6 +687,7 @@
     <entry file="file://$PROJECT_DIR$/多线程输入/简单队列操作.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/多线程输入/输入处理框架.py" />
     <entry file="file://$PROJECT_DIR$/多线程输入/多线程队列操作.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -776,7 +705,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/多线程输入/输入处理框架.py" />
     <entry file="file://$PROJECT_DIR$/多线程输入/输入文件队列_2_获取文件队列.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -786,7 +714,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/输入处理框架.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
+        <state relative-caret-position="2520">
           <caret line="86" column="9" selection-start-line="86" selection-start-column="9" selection-end-line="86" selection-end-column="9" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
@@ -794,45 +722,98 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/多线程输入/输入文件队列_1_生成样例数据.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_TensorFlow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorFlow测试样例.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorFlow官网示例.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpu检测.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNIST/maxout网络2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/MNIST/MNIST训练神经网络_改进.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1496">
-          <caret line="94" lean-forward="true" selection-start-line="94" selection-end-line="94" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MNIST/LeNet-5模型——卷积网络/mnist_train.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-746">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MNIST/LeNet-5模型——卷积网络/mnist_inference.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MNIST/LeNet-5模型——卷积网络/mnist_eval.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-26">
-          <caret line="47" column="38" selection-start-line="47" selection-start-column="38" selection-end-line="47" selection-end-column="38" />
+        <state relative-caret-position="2790">
+          <caret line="94" selection-start-line="94" selection-end-line="94" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/多线程输入/输入文件队列_3_组合训练数据.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="664">
-          <caret line="43" column="23" lean-forward="true" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
+        <state relative-caret-position="1290">
+          <caret line="43" column="23" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/多线程输入/输入文件队列_1_生成样例数据.py">
+    <entry file="file://$PROJECT_DIR$/MNIST/maxout网络.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+        <state>
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNIST/卷积网络优化.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2220">
+          <caret line="79" column="27" selection-start-line="79" selection-start-column="27" selection-end-line="79" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNIST/LeNet-5模型——卷积网络/mnist_train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="37" column="15" selection-start-line="37" selection-start-column="15" selection-end-line="37" selection-end-column="15" />
+          <folding>
+            <element signature="e#24#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNIST/LeNet-5模型——卷积网络/mnist_inference.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2760">
+          <caret line="92" column="35" selection-start-line="92" selection-start-column="35" selection-end-line="92" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNIST/LeNet-5模型——卷积网络/mnist_eval.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="110" column="24" lean-forward="true" selection-start-line="110" selection-start-column="24" selection-end-line="110" selection-end-column="24" />
         </state>
       </provider>
     </entry>

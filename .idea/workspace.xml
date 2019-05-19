@@ -1,9 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df7a1138-a12b-492d-9d9c-4d7501725e13" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="df7a1138-a12b-492d-9d9c-4d7501725e13" name="Default" comment="1111">
+      <change afterPath="$PROJECT_DIR$/BasicSR/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicSR/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BiRNN_wav_OCR/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BiRNN_wav_OCR/MFCC特征提取.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BiRNN_wav_OCR/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BiRNN_wav_OCR/showUI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BiRNN_wav_OCR/test001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BiRNN_wav_OCR/train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ESRGAN/.idea/ESRGAN.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ESRGAN/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ESRGAN/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ESRGAN/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ESRGAN/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ESRGAN/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ESRGAN/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/car_license_OCR/GUI.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sklearn示例/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sklearn示例/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sklearn示例/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sklearn示例/.idea/sklearn示例.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sklearn示例/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sklearn示例/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sklearn示例/08163260 朱璋.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sklearn示例/鸢尾花PAC_SVC_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/智能算法/TensorFlow/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/智能算法/TensorFlow/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/智能算法/TensorFlow/DCGAN/align.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/智能算法/TensorFlow/DCGAN/dcgan_train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/智能算法/TensorFlow/DCGAN/model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/智能算法/TensorFlow/DCGAN/ops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/智能算法/TensorFlow/DCGAN/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/.idea/MNIST.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/卷积网络优化.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/智能算法/TensorFlow/RNN/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/智能算法/TensorFlow/RNN/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/智能算法/TensorFlow/RNN/echo模拟.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/智能算法/TensorFlow/RNN/退位减法器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/智能算法/TensorFlow/回归/多分类logistic回归.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/智能算法/TensorFlow/回归/线性logistic回归.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/智能算法/TensorFlow/图像处理/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/智能算法/TensorFlow/图像处理/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/智能算法/TensorFlow/图像处理/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/智能算法/TensorFlow/图像处理/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/智能算法/TensorFlow/图像处理/.idea/图像处理.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/智能算法/主成分分析/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/智能算法/主成分分析/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/智能算法/主成分分析/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/智能算法/主成分分析/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/智能算法/主成分分析/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/智能算法/主成分分析/.idea/主成分分析.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/智能算法/决策树/CART回归树.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/智能算法/决策树/CART模型树.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/智能算法/决策树/bikeSpeedVsIq_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/智能算法/决策树/bikeSpeedVsIq_train.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/智能算法/决策树/ex0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/智能算法/决策树/ex00.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/智能算法/决策树/ex2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/智能算法/决策树/ex2test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/智能算法/决策树/exp2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/智能算法/决策树/树回归预测及评价.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/智能算法/数据预处理/随机抽取指定数目样本.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicSR/codes/options/test/test_ESRGAN.json" beforeDir="false" afterPath="$PROJECT_DIR$/BasicSR/codes/options/test/test_ESRGAN.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/智能算法/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/智能算法/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/智能算法/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/智能算法/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/智能算法/.idea/智能算法.iml" beforeDir="false" afterPath="$PROJECT_DIR$/智能算法/.idea/智能算法.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/智能算法/TensorFlow/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/智能算法/TensorFlow/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/mnist_eval.py" beforeDir="false" afterPath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/mnist_eval.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/mnist_inference.py" beforeDir="false" afterPath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/mnist_inference.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/mnist_train.py" beforeDir="false" afterPath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/mnist_train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/checkpoint" beforeDir="false" afterPath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/checkpoint" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-26000.data-00000-of-00001" beforeDir="false" afterPath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-26000.data-00000-of-00001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-26000.index" beforeDir="false" afterPath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-26000.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-26000.meta" beforeDir="false" afterPath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-26000.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-27000.data-00000-of-00001" beforeDir="false" afterPath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-27000.data-00000-of-00001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-27000.index" beforeDir="false" afterPath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-27000.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-27000.meta" beforeDir="false" afterPath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-27000.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-28000.data-00000-of-00001" beforeDir="false" afterPath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-28000.data-00000-of-00001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-28000.index" beforeDir="false" afterPath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-28000.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-28000.meta" beforeDir="false" afterPath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-28000.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-29000.data-00000-of-00001" beforeDir="false" afterPath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-29000.data-00000-of-00001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-29000.index" beforeDir="false" afterPath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-29000.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-29000.meta" beforeDir="false" afterPath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-29000.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-30000.data-00000-of-00001" beforeDir="false" afterPath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-30000.data-00000-of-00001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-30000.index" beforeDir="false" afterPath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-30000.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-30000.meta" beforeDir="false" afterPath="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/model/model_of_mnist.ckpt-30000.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/智能算法/TensorFlow/回归/一维线性回归.py" beforeDir="false" afterPath="$PROJECT_DIR$/智能算法/TensorFlow/回归/一维线性回归.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/智能算法/回归/LWLR.py" beforeDir="false" afterPath="$PROJECT_DIR$/智能算法/回归/LWLR局部加权线性回归.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,60 +105,124 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Python$cartoon1.coverage" NAME="cartoon1 Coverage Results" MODIFIED="1520427673133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selenium模拟浏览器/getCartoon" />
+    <SUITE FILE_PATH="coverage/Python_projects$Bayes_.coverage" NAME="Bayes_简单侮辱性言论分类 Coverage Results" MODIFIED="1545913881959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/智能算法/朴素贝叶斯" />
+    <SUITE FILE_PATH="coverage/Python_projects$mnist_eval.coverage" NAME="mnist_eval Coverage Results" MODIFIED="1545326558922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络" />
+    <SUITE FILE_PATH="coverage/Python_projects$sklean.coverage" NAME="线性回归sklean Coverage Results" MODIFIED="1545911770207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/智能算法/回归" />
     <SUITE FILE_PATH="coverage/Python$getProxyFromKuaidaili.coverage" NAME="getProxyFromKuaidaili Coverage Results" MODIFIED="1520344619909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selenium模拟浏览器/getProxy" />
+    <SUITE FILE_PATH="coverage/Python_projects$sklearn.coverage" NAME="岭回归sklearn Coverage Results" MODIFIED="1545913004410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/智能算法/回归" />
     <SUITE FILE_PATH="coverage/Python$headless_chrome_.coverage" NAME="headless chrome 示例 Coverage Results" MODIFIED="1520327557100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selenium模拟浏览器" />
+    <SUITE FILE_PATH="coverage/Python_projects$logistic.coverage" NAME="多分类logistic回归 Coverage Results" MODIFIED="1545307500492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/智能算法/TensorFlow/回归" />
+    <SUITE FILE_PATH="coverage/Python_projects$mnist_train.coverage" NAME="mnist_train Coverage Results" MODIFIED="1545377477421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络" />
+    <SUITE FILE_PATH="coverage/Python_projects$.coverage" NAME="岭回归 Coverage Results" MODIFIED="1545912923053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/智能算法/回归" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/selenium模拟浏览器/headless chrome 示例.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/智能算法/回归/岭回归sklearn.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="286">
+              <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
               <folding>
-                <element signature="e#0#9#0" expanded="true" />
+                <element signature="e#0#18#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/selenium模拟浏览器/getCartoon/cartoon1.py">
+        <entry file="file://$PROJECT_DIR$/智能算法/数据处理(标准化、归一化、二值化等).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+            <state>
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/爬虫实战/venv1/Lib/site-packages/twisted/pair/test/test_tuntap.py">
+        <entry file="file://$PROJECT_DIR$/智能算法/朴素贝叶斯/Bayes_简单侮辱性言论分类.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="199" column="12" selection-start-line="199" selection-start-column="12" selection-end-line="199" selection-end-column="12" />
+            <state relative-caret-position="2002">
+              <caret line="77" column="33" selection-start-line="77" selection-start-column="33" selection-end-line="77" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/爬虫实战/venv1/Lib/site-packages/asn1crypto/parser.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/selenium模拟浏览器/getProxy/getProxyFromKuaidaili.py">
+        <entry file="file://$PROJECT_DIR$/智能算法/朴素贝叶斯/Bayes_垃圾邮件分类.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+            <state relative-caret-position="182">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="e#0#37#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/selenium模拟浏览器/getProxy/proxy.txt">
+        <entry file="file://$PROJECT_DIR$/智能算法/朴素贝叶斯/Bayes_个人广告获取区域倾向.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="12" column="71" selection-start-line="12" selection-start-column="71" selection-end-line="12" selection-end-column="71" />
+            <state relative-caret-position="1950">
+              <caret line="81" selection-start-line="81" selection-end-line="81" />
+              <folding>
+                <element signature="e#0#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/mnist_train.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="122">
+              <caret line="32" column="69" lean-forward="true" selection-start-line="32" selection-start-column="69" selection-end-line="32" selection-end-column="69" />
+              <folding>
+                <element signature="e#24#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/智能算法/回归/岭回归.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/mnist_inference.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2730">
+              <caret line="105" column="12" selection-start-line="105" selection-start-column="12" selection-end-line="105" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/智能算法/TensorFlow/MNIST/MNIST训练神经网络.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4862">
+              <caret line="188" column="16" selection-start-line="188" selection-start-column="16" selection-end-line="188" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/智能算法/TensorFlow/回归/线性logistic回归.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="78">
+              <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -81,6 +237,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="TraceIvan &lt;1254372931@qq.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -91,6 +252,14 @@
         <option value="$PROJECT_DIR$/selenium模拟浏览器/getProxy/proxy.txt" />
         <option value="$PROJECT_DIR$/selenium模拟浏览器/headless chrome 示例.py" />
         <option value="$PROJECT_DIR$/selenium模拟浏览器/getCartoon/cartoon1.py" />
+        <option value="$PROJECT_DIR$/智能算法/TensorFlow/回归/线性logistic回归.py" />
+        <option value="$PROJECT_DIR$/智能算法/TensorFlow/回归/多分类logistic回归.py" />
+        <option value="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/mnist_inference.py" />
+        <option value="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/mnist_eval.py" />
+        <option value="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/mnist_train.py" />
+        <option value="$PROJECT_DIR$/智能算法/数据预处理/随机抽取指定数目样本.py" />
+        <option value="$PROJECT_DIR$/智能算法/TensorFlow/MNIST/卷积网络优化.py" />
+        <option value="$PROJECT_DIR$/智能算法/TensorFlow/回归/一维线性回归.py" />
       </list>
     </option>
   </component>
@@ -100,11 +269,15 @@
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -130,19 +303,34 @@
               <item name="TensorFlow" type="462c0819:PsiDirectoryNode" />
               <item name="MNIST" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Python projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python projects" type="462c0819:PsiDirectoryNode" />
+              <item name="智能算法" type="462c0819:PsiDirectoryNode" />
+              <item name="TensorFlow" type="462c0819:PsiDirectoryNode" />
+              <item name="MNIST" type="462c0819:PsiDirectoryNode" />
+              <item name="LeNet-5模型——卷积网络" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python projects" type="462c0819:PsiDirectoryNode" />
+              <item name="智能算法" type="462c0819:PsiDirectoryNode" />
+              <item name="TensorFlow" type="462c0819:PsiDirectoryNode" />
+              <item name="RNN" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="parse&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="SearchEverywhereHistoryKey" value="parse&#9;null&#9;null" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -161,8 +349,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.cartoon1">
-    <configuration name="cartoon1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Bayes_简单侮辱性言论分类">
+    <configuration name="一维线性回归" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -170,12 +358,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/selenium模拟浏览器/getCartoon" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/智能算法/TensorFlow/回归" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/selenium模拟浏览器/getCartoon/cartoon1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/智能算法/TensorFlow/回归/一维线性回归.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,7 +372,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="getProxyFromKuaidaili" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Bayes_简单侮辱性言论分类" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -192,12 +380,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/selenium模拟浏览器/getProxy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/智能算法/朴素贝叶斯" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/selenium模拟浏览器/getProxy/getProxyFromKuaidaili.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/智能算法/朴素贝叶斯/Bayes_简单侮辱性言论分类.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -206,7 +394,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="headless chrome 示例" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Bayes_垃圾邮件分类" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -214,12 +402,100 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/selenium模拟浏览器" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/智能算法/朴素贝叶斯" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/selenium模拟浏览器/headless chrome 示例.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/智能算法/朴素贝叶斯/Bayes_垃圾邮件分类.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="岭回归" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/智能算法/回归" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/智能算法/回归/岭回归.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="多分类logistic回归" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/智能算法/TensorFlow/回归" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/智能算法/TensorFlow/回归/多分类logistic回归.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="多分类logistic回归" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/智能算法/TensorFlow/回归" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/智能算法/TensorFlow/回归/多分类logistic回归.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="岭回归sklearn" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/智能算法/回归" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/智能算法/回归/岭回归sklearn.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -229,15 +505,16 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.headless chrome 示例" />
-      <item itemvalue="Python.getProxyFromKuaidaili" />
-      <item itemvalue="Python.cartoon1" />
+      <item itemvalue="Python.Bayes_简单侮辱性言论分类" />
+      <item itemvalue="Python.一维线性回归" />
+      <item itemvalue="Python.多分类logistic回归" />
+      <item itemvalue="Python.岭回归sklearn" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.cartoon1" />
-        <item itemvalue="Python.getProxyFromKuaidaili" />
-        <item itemvalue="Python.headless chrome 示例" />
+        <item itemvalue="Python.Bayes_简单侮辱性言论分类" />
+        <item itemvalue="Python.岭回归sklearn" />
+        <item itemvalue="Python.一维线性回归" />
       </list>
     </recent_temporary>
   </component>
@@ -251,37 +528,61 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1520169356781</updated>
-      <workItem from="1545238545213" duration="606000" />
+      <workItem from="1545238545213" duration="4221000" />
+      <workItem from="1545289678332" duration="2310000" />
+      <workItem from="1545298749041" duration="615000" />
+      <workItem from="1545302780153" duration="4796000" />
+      <workItem from="1545316027115" duration="8044000" />
+      <workItem from="1545372036234" duration="11522000" />
+      <workItem from="1545384465837" duration="2411000" />
+      <workItem from="1545394616475" duration="1080000" />
+      <workItem from="1545840833269" duration="1165000" />
+      <workItem from="1545909813778" duration="3881000" />
+      <workItem from="1545917926166" duration="343000" />
+      <workItem from="1547188525237" duration="1223000" />
+      <workItem from="1547193758670" duration="4000" />
+      <workItem from="1551958572275" duration="835000" />
+      <workItem from="1558270573357" duration="145000" />
     </task>
+    <task id="LOCAL-00001" summary="1111">
+      <created>1545239260184</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1545239260184</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="606000" />
+    <option name="totallyTimeSpent" value="42595000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19829424" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21908316" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.17299107" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.54352677" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22160356" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2037862" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.32962137" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32962137" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="11" weight="0.32962137" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
+      <window_info active="true" anchor="right" id="SciView" order="3" sideWeight="0.908686" visible="true" weight="0.18283582" />
       <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="5" sideWeight="0.09131403" side_tool="true" visible="true" weight="0.18283582" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -322,6 +623,24 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1111" />
+    <option name="LAST_COMMIT_MESSAGE" value="1111" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/selenium模拟浏览器/screen.png">
@@ -350,8 +669,25 @@
     <entry file="file://$PROJECT_DIR$/scipy/数值积分.py" />
     <entry file="file://$PROJECT_DIR$/selenium模拟浏览器/getCartoon/cartoon1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
+        <state relative-caret-position="30">
           <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium模拟浏览器/headless chrome 示例.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫实战/venv1/Lib/site-packages/twisted/pair/test/test_tuntap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5610">
+          <caret line="199" column="12" selection-start-line="199" selection-start-column="12" selection-end-line="199" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -372,19 +708,203 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫实战/venv1/Lib/site-packages/twisted/pair/test/test_tuntap.py">
+    <entry file="file://$PROJECT_DIR$/../Program Files/Python36/Lib/site-packages/tensorflow/python/framework/dtypes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="199" column="12" selection-start-line="199" selection-start-column="12" selection-end-line="199" selection-end-column="12" />
+        <state relative-caret-position="194">
+          <caret line="338" selection-start-line="338" selection-end-line="338" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/selenium模拟浏览器/headless chrome 示例.py">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons/numpy/core/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="194">
+          <caret line="3011" selection-start-line="3011" selection-end-line="3011" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/智能算法/TensorFlow/MNIST/TFRecord样例_读取.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Program Files/Python36/Lib/site-packages/tensorflow/contrib/layers/python/layers/layers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-88">
+          <caret line="1115" column="4" selection-start-line="1115" selection-start-column="4" selection-end-line="1115" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/智能算法/TensorFlow/MNIST/maxout网络2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1350" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/智能算法/TensorFlow/MNIST/单神经元.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="40" column="38" selection-start-line="40" selection-start-column="38" selection-end-line="40" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/智能算法/TensorFlow/MNIST/maxout网络.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="59" column="37" selection-start-line="59" selection-start-column="37" selection-end-line="59" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Program Files/Python36/Lib/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="254" column="8" selection-start-line="254" selection-start-column="8" selection-end-line="254" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/830134243/numpy/random/mtrand.py" />
+    <entry file="file://$PROJECT_DIR$/智能算法/TensorFlow/回归/多分类logistic回归.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="49" selection-start-line="49" selection-end-line="49" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/智能算法/TensorFlow/MNIST/卷积网络优化.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-75">
+          <caret line="87" column="53" selection-start-line="87" selection-start-column="53" selection-end-line="87" selection-end-column="53" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/智能算法/数据预处理/随机抽取指定数目样本.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" selection-start-line="1" selection-end-line="12" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/mnist_eval.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2760">
+          <caret line="99" column="63" selection-start-line="99" selection-start-column="63" selection-end-line="99" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/智能算法/回归/线性回归sklean.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1830">
+          <caret line="62" column="27" selection-start-line="62" selection-start-column="27" selection-end-line="62" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/智能算法/TensorFlow/回归/一维线性回归.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2910">
+          <caret line="99" column="23" selection-start-line="99" selection-start-column="23" selection-end-line="99" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/智能算法/回归/岭回归sklearn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/智能算法/数据处理(标准化、归一化、二值化等).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/智能算法/朴素贝叶斯/Bayes_简单侮辱性言论分类.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2002">
+          <caret line="77" column="33" selection-start-line="77" selection-start-column="33" selection-end-line="77" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/智能算法/朴素贝叶斯/Bayes_垃圾邮件分类.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/智能算法/朴素贝叶斯/Bayes_个人广告获取区域倾向.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1950">
+          <caret line="81" selection-start-line="81" selection-end-line="81" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/智能算法/回归/岭回归.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/mnist_inference.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2730">
+          <caret line="105" column="12" selection-start-line="105" selection-start-column="12" selection-end-line="105" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/智能算法/TensorFlow/MNIST/MNIST训练神经网络.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4862">
+          <caret line="188" column="16" selection-start-line="188" selection-start-column="16" selection-end-line="188" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/智能算法/TensorFlow/回归/线性logistic回归.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/智能算法/TensorFlow/MNIST/LeNet-5模型——卷积网络/mnist_train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="32" column="69" lean-forward="true" selection-start-line="32" selection-start-column="69" selection-end-line="32" selection-end-column="69" />
+          <folding>
+            <element signature="e#24#33#0" expanded="true" />
           </folding>
         </state>
       </provider>

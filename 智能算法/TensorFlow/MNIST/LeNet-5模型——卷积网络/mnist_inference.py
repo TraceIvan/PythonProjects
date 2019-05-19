@@ -16,7 +16,8 @@ CONV1_SIZE=5
 CONV2_DEEP=64
 CONV2_SIZE=5
 #全连接层的结点个数
-FC_SIZE=512
+FC1_SIZE=512
+FC2_SIZE=256
 
 #定义卷积神经网络的前向传播过程
 #train参数区分训练过程和测试过程
@@ -83,34 +84,51 @@ def inference(input_tensor,train,regularizer):
     #dropout一般只在全连接层而不是卷积层或池化层使用
     with tf.variable_scope('layer5-fc1',reuse=tf.AUTO_REUSE):
         fc1_weights=tf.get_variable(
-            "weights",[nodes,FC_SIZE],
+            "weights",[nodes,FC1_SIZE],
             initializer=tf.truncated_normal_initializer(stddev=0.1)
         )
         #只有全连接层的权重需要加入正则化
         if regularizer !=None:
             tf.add_to_collection('losses',regularizer(fc1_weights))
         fc1_biases=tf.get_variable(
-            "biases",[FC_SIZE],initializer=tf.constant_initializer(0.1)
+            "biases",[FC1_SIZE],initializer=tf.constant_initializer(0.1)
         )
         fc1=tf.nn.relu(tf.matmul(reshaped,fc1_weights)+fc1_biases)
         if train:
             fc1=tf.nn.dropout(fc1,0.5)
 
-    #声明第六层全连接层的变量并实现前向传播
-    #输入为512长度向量，输出为长度为10的向量
-    #这一层的输出通过softmax得到最后分类结果
+    #声明第六层全连接层的变量并实现前向传播过程,输入512，输出,256长度的向量
+    #dropout在训练时会随机将部分节点输出改为0，避免过度拟合问题
+    #dropout一般只在全连接层而不是卷积层或池化层使用
     with tf.variable_scope('layer6-fc2',reuse=tf.AUTO_REUSE):
         fc2_weights=tf.get_variable(
-            "weights",[FC_SIZE,NUM_LABELS],
+            "weights",[FC1_SIZE,FC2_SIZE],
             initializer=tf.truncated_normal_initializer(stddev=0.1)
         )
+        #只有全连接层的权重需要加入正则化
         if regularizer !=None:
             tf.add_to_collection('losses',regularizer(fc2_weights))
         fc2_biases=tf.get_variable(
-            "biases",[NUM_LABELS],
-            initializer=tf.constant_initializer(0.1)
+            "biases",[FC2_SIZE],initializer=tf.constant_initializer(0.1)
         )
-        logit=tf.matmul(fc1,fc2_weights)+fc2_biases
+        fc2=tf.nn.relu(tf.matmul(fc1,fc2_weights)+fc2_biases)
+        if train:
+            fc2=tf.nn.dropout(fc2,0.5)
 
-    #返回第六层输出
+    #第七层，输出层
+    #输入为256长度向量，输出为长度为10的向量
+    #这一层的输出通过softmax得到最后分类结果
+    with tf.variable_scope('layer7-fc3',reuse=tf.AUTO_REUSE):
+        fc3_weights=tf.get_variable(
+            "weights",[FC2_SIZE,NUM_LABELS],
+            initializer=tf.truncated_normal_initializer(stddev=0.1)
+        )
+        if regularizer !=None:
+            tf.add_to_collection('losses',regularizer(fc3_weights))
+        fc3_biases=tf.get_variable(
+            "biases",[NUM_LABELS],initializer=tf.constant_initializer(0.1)
+        )
+        logit=tf.matmul(fc2,fc3_weights)+fc3_biases
+
+    #返回第七层输出
     return logit
